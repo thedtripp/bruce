@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bruce Job Board</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Bruce Job Board</h1>
+    <p>Job postings fetched daily from Greenhouse, Lever, and Ashby job boards.</p>
+  </header>
+
+  <div class="controls">
+    <input type="text" id="search" placeholder="Search company or title..." aria-label="Search company or title" />
+    <select id="bucket-filter" aria-label="Filter by category">
+      <option value="all">All results</option>
+      <option value="primary">Primary (Bay Area / Remote)</option>
+      <option value="other_us">Other US Locations</option>
+      <option value="excluded">Excluded</option>
+    </select>
+    <select id="source-filter" aria-label="Filter by source">
+      <option value="all">All sources</option>
+      <option value="Greenhouse">Greenhouse</option>
+      <option value="Lever">Lever</option>
+      <option value="Ashby">Ashby</option>
+    </select>
+  </div>
+
+  <div id="status">Loading...</div>
+
+  <div class="table-wrap">
+    <table id="jobs-table">
+      <thead>
+        <tr>
+          <th>Company</th>
+          <th>Title</th>
+          <th>Location</th>
+          <th>Source</th>
+          <th>Posted</th>
+          <th>Matched Keywords</th>
+          <th>Link</th>
+        </tr>
+      </thead>
+      <tbody id="jobs-body"></tbody>
+    </table>
+  </div>
+
+  <div class="pagination">
+    <button id="prev-page" type="button">Prev</button>
+    <span id="page-info"></span>
+    <button id="next-page" type="button">Next</button>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
