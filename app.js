@@ -10,6 +10,7 @@ const bucketFilter = document.getElementById("bucket-filter");
 const sourceFilter = document.getElementById("source-filter");
 const tbody = document.getElementById("jobs-body");
 const statusEl = document.getElementById("status");
+const lastUpdatedEl = document.getElementById("last-updated");
 const pageInfo = document.getElementById("page-info");
 const prevBtn = document.getElementById("prev-page");
 const nextBtn = document.getElementById("next-page");
@@ -88,8 +89,12 @@ nextBtn.addEventListener("click", () => {
 fetch("jobs.json")
   .then((res) => res.json())
   .then((data) => {
-    allJobs = data;
-    filteredJobs = data;
+    allJobs = data.jobs;
+    filteredJobs = data.jobs;
+    if (data.generated_at) {
+      const generated = new Date(data.generated_at);
+      lastUpdatedEl.textContent = `Data last updated: ${generated.toLocaleString()}`;
+    }
     renderPage();
   })
   .catch((err) => {
