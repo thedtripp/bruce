@@ -1,3 +1,8 @@
+// GENERATED/MIRRORED FILE -- do not edit in the public `bruce` repo.
+// This is the source; publish_frontend.yml copies it there verbatim on
+// every push. Edit here (bruce-bot/docs/js/app.js) instead -- see
+// bruce/CLAUDE.md for why.
+
 const PAGE_SIZE = 100;
 const DEBOUNCE_MS = 400;
 
