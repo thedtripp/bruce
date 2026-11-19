@@ -32,6 +32,7 @@
 {"term": "ACLs", "definition": "Access Control Lists, rules that govern read/write/access permissions on records or resources.", "companies": ["toast"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "ACME", "definition": "Automated Certificate Management Environment; protocol used for automated TLS certificate issuance.", "companies": ["fastly"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "ACR", "definition": "Azure Consumption Revenue; a metric tracking cloud spend driven through the Azure marketplace co-sell motion.", "companies": ["newrelic"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "ActiveMQ", "definition": "Apache open-source message broker.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "ActiveRecord", "definition": "The object-relational mapping (ORM) layer built into Ruby on Rails for interacting with a database using Ruby objects.", "companies": ["huntress"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Acute Care", "definition": "Short-term treatment for sudden illness or injury requiring immediate medical attention.", "companies": ["onemedical"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "ACV", "definition": "Annual Contract Value; the yearly value of a customer contract, commonly used to size deals and quotas.", "companies": ["vercel"], "disputed": false, "explanation": "", "analogy": ""}
@@ -57,11 +58,13 @@
 {"term": "Aeries", "definition": "A K-12 student information system (SIS) used by school districts to manage student records, attendance, and grades.", "companies": ["newsela"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Aerospace engineering", "definition": "Engineering discipline focused on aircraft, spacecraft, and related systems design.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Aerospace manufacturing", "definition": "Manufacturing processes specialized for aerospace component production.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Aerospike", "definition": "Distributed NoSQL database for low-latency workloads.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "AFT/OCT", "definition": "Account Funding Transaction and Original Credit Transaction -- card network transaction types used to push funds onto or from a card outside a traditional purchase.", "companies": ["chime"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "After Effects", "definition": "Adobe's motion graphics and visual effects software.", "companies": ["huntress"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Agent Experience (AX)", "definition": "Netlify's term for making its platform as usable by AI agents as it is by human developers.", "companies": ["netlify"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Agent Instructions", "definition": "Configurable guidance given to an AI agent to shape how it behaves within a product surface.", "companies": ["webflow"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Agent Mode", "definition": "Postman's AI product for interacting with an AI that understands the user's entire API workspace.", "companies": ["postman"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Agent2Agent", "definition": "Google's open protocol for communication between AI agents.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "AgentBuilder", "definition": "Named framework/tool for building AI agents, cited alongside LangGraph and AgentCore.", "companies": ["launchdarkly"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AgentControl", "definition": "LaunchDarkly's product for releasing, monitoring, and optimizing AI agents.", "companies": ["launchdarkly"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AgentCore", "definition": "Named framework/tool for building AI agents, cited alongside LangGraph and AgentBuilder.", "companies": ["launchdarkly"], "disputed": false, "explanation": "", "analogy": ""}
@@ -89,12 +92,18 @@
 {"term": "AI coding assistants", "definition": "AI-based developer tools Roku's Regional TV Software role is expected to default to and use to enhance development velocity and code quality.", "companies": ["roku"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AI Configs", "definition": "LaunchDarkly's product for managing GenAI feature configuration, evaluation, and observability.", "companies": ["launchdarkly"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AI Evals", "definition": "Evaluation frameworks/metrics defined for measuring the quality of AI-powered features.", "companies": ["cockroachlabs"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "AI evaluation", "definition": "Measuring AI system quality with tests and metrics.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "AI Fluency", "definition": "Practical comfort using AI tools to improve productivity in a business or technical role.", "companies": ["mongodb"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "AI frameworks", "definition": "Software frameworks for building AI applications.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "AI gateway", "definition": "Product category providing centralized LLM access, usage visibility, and audit/governance.", "companies": ["tailscale"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "AI gateways", "definition": "Proxies that route and manage calls to multiple AI model providers.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "AI governance", "definition": "Domain area covering policies and contract provisions that govern AI model use.", "companies": ["postman"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AI Guarded Releases", "definition": "AgentControl feature for safely rolling out AI agent releases.", "companies": ["launchdarkly"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "AI integration", "definition": "Connecting AI models to existing products and systems.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "AI platforms", "definition": "Platforms for building, deploying and operating AI systems.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "AI product strategy", "definition": "The practice of defining how AI capabilities get incorporated into a product's roadmap, user experience, and competitive positioning.", "explanation": "", "analogy": "", "companies": ["clever"], "disputed": false}
 {"term": "AI SDK", "definition": "Vercel's SDK for building AI-powered applications, referenced as the Vercel AI SDK.", "companies": ["vercel"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "AI Serving", "definition": "Serving trained AI models to production traffic.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "AI Tools", "definition": "Software applications that leverage artificial intelligence to assist with tasks such as content creation or analysis.", "companies": ["samsara"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AI-assisted analysis", "definition": "The practice of using AI tools to accelerate data analysis and automate repeatable analytical tasks, paired with human verification for accuracy.", "companies": ["pinterest"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AI-Assisted Tools", "definition": "Software tools leveraging artificial intelligence to enhance productivity.", "companies": ["billiontoone"], "disputed": false, "explanation": "", "analogy": ""}
@@ -109,6 +118,7 @@
 {"term": "AKS", "definition": "Azure Kubernetes Service; a managed Kubernetes offering referenced as a cloud-native technology.", "companies": ["newrelic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "ALB", "definition": "Application Load Balancer -- an AWS load balancer that routes HTTP/HTTPS traffic across targets based on request content.", "companies": ["recordedfuture"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "ALCO (Asset-Liability Committee)", "definition": "A bank governance committee responsible for managing risks arising from asset and liability mismatches, including interest rate and liquidity risk.", "companies": ["affirm"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Alembic", "definition": "Database migration tool for SQLAlchemy.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Alerting", "definition": "Automated notifications when system metrics exceed defined thresholds.", "companies": ["billiontoone"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Alertmanager", "definition": "A Prometheus-ecosystem component that handles alert deduplication, grouping, routing, and notification.", "companies": ["singlestore"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Algorithms", "definition": "Step-by-step procedures for solving computational problems, a core computer-science competency expected of an engineering role.", "companies": ["duolingo"], "disputed": false, "explanation": "", "analogy": ""}
@@ -118,12 +128,16 @@
 {"term": "Alteryx", "definition": "A data analytics platform for blending, preparing, and analyzing data through a visual workflow interface.", "companies": ["okta", "stockx"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Aluminum", "definition": "Lightweight metal commonly used in aerospace structures and components.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Amazon Aurora", "definition": "A MySQL/PostgreSQL-compatible relational database engine built by AWS for high performance and availability.", "companies": ["samsara", "singlestore"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Amazon CloudWatch", "definition": "AWS service for metrics, logs and alarms.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Amazon ECS", "definition": "AWS's managed container orchestration service for running Docker containers.", "companies": ["coinbase"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Amazon EFS", "definition": "AWS's managed, scalable elastic file storage service for use with cloud services and on-premises resources.", "companies": ["coinbase"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Amazon EKS", "definition": "AWS's managed Kubernetes service for running containerized applications.", "companies": ["robinhood"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Amazon Kinesis", "definition": "AWS managed service for real-time streaming data.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Amazon RDS", "definition": "AWS managed relational database service (PostgreSQL, MySQL and others).", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Amazon RDS Proxy", "definition": "A fully managed database proxy for Amazon RDS that pools and shares database connections to improve scalability.", "companies": ["marqeta"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Amazon Redshift", "definition": "AWS data warehouse service for large-scale data analytics.", "companies": ["sigmacomputing"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Amazon S3", "definition": "Object storage service for storing and retrieving data at scale.", "companies": ["freenome"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Amazon SQS", "definition": "AWS managed message queue service.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Amazon Web Services (AWS)", "definition": "Cloud platform providing compute, storage, and ML services.", "companies": ["freenome", "moxehealth"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "American Board of Medical Genetics and Genomics (ABMGG)", "definition": "Board certifying medical professionals in clinical genetics and genomics.", "companies": ["natera"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "American Board of Pathology (ABP)", "definition": "Board certifying pathologists and specialists in laboratory medicine.", "companies": ["natera"], "disputed": false, "explanation": "", "analogy": ""}
@@ -141,6 +155,7 @@
 {"term": "anomaly detection", "definition": "Statistical/ML technique for identifying unusual patterns in time-series or telemetry data.", "companies": ["newrelic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Ansible", "definition": "An open-source IT automation and configuration management tool.", "companies": ["gitlab", "robinhood"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Anthropic", "definition": "An AI safety and research company that builds the Claude family of large language models.", "companies": ["okta", "stockx"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Anthropic API", "definition": "API for accessing Claude models.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Anti-Money Laundering (AML)", "definition": "Laws, regulations, and procedures designed to prevent criminals from disguising illegally obtained funds as legitimate income.", "companies": ["robinhood"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Apache", "definition": "Open-source web server software.", "companies": ["aurorainnovation"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Apache Airflow", "definition": "Workflow orchestration platform for scheduling and monitoring data pipelines.", "companies": ["moxehealth"], "disputed": false, "explanation": "", "analogy": ""}
@@ -152,6 +167,7 @@
 {"term": "Apache Mesos", "definition": "An open-source cluster manager for distributing resources and workloads across a cluster of machines.", "companies": ["coinbase"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Apache Parquet", "definition": "Columnar data format optimized for big data analytics.", "companies": ["freenome"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Apache Pulsar", "definition": "A distributed, cloud-native publish-subscribe messaging and event streaming platform.", "companies": ["toast"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Apache Solr", "definition": "Open-source search platform built on Lucene.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Apache Spark", "definition": "An open-source distributed computing engine for large-scale data processing and analytics.", "companies": ["affirm", "collectivehealth", "dataiku", "freenome"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "APCA", "definition": "Advanced Perceptual Contrast Algorithm, a modern method for calculating text-background color contrast for accessibility.", "companies": ["airtable"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Aperture", "definition": "Tailscale's identity-aware LLM gateway product.", "companies": ["tailscale"], "disputed": false, "explanation": "", "analogy": ""}
@@ -176,6 +192,8 @@
 {"term": "Architectural drawings", "definition": "Detailed technical plans showing building layout and design specifications.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Architectural migration", "definition": "The process of moving a system from an old architecture or technology to a new one, typically while it remains in production.", "companies": ["instacart"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Architecture Decision Records", "definition": "Short documents that record a significant architectural decision, its context, and its consequences, for future reference.", "companies": ["okta"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Argo CD", "definition": "GitOps continuous delivery tool for Kubernetes.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Argo Workflows", "definition": "Kubernetes-native engine for running multi-step workflows.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "ArgoCD", "definition": "A GitOps continuous delivery tool for Kubernetes that syncs cluster state to a Git repository.", "companies": ["recordedfuture", "robinhood"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "ARIA", "definition": "Accessible Rich Internet Applications, a set of HTML attributes that improve accessibility of dynamic web content for assistive technologies.", "companies": ["airtable"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Arista Networks", "definition": "A vendor of networking switches and software focused on data center and cloud networking.", "companies": ["robinhood"], "disputed": false, "explanation": "", "analogy": ""}
@@ -184,6 +202,7 @@
 {"term": "Articulate", "definition": "An e-learning authoring tool suite used to build interactive training courses.", "companies": ["samsara"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Articulate Rise", "definition": "A responsive e-learning course authoring tool from Articulate.", "companies": ["twilio"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Articulate Storyline", "definition": "An e-learning authoring tool used to build interactive training courses.", "companies": ["coursera", "twilio"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Artifactory", "definition": "JFrog artifact repository manager.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Artificial Intelligence", "definition": "Field of computer science focused on creating systems capable of performing tasks that typically require human intelligence.", "companies": ["datacamp", "roku"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Artificial Intelligence (AI)", "definition": "Computing systems that simulate human intelligence and decision-making.", "companies": ["freenome"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AS9100", "definition": "Quality Management System standard for aerospace, defense, and related industries.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
@@ -211,11 +230,13 @@
 {"term": "Attention Is All You Need", "definition": "The seminal 2017 paper that introduced the transformer architecture underlying modern LLMs.", "companies": ["launchdarkly"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Attribution modeling", "definition": "Techniques for determining which marketing touchpoints get credit for driving a conversion or business outcome.", "companies": ["pinterest"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AuditBoard", "definition": "A cloud-based governance, risk, and compliance (GRC) platform for managing audits, risk assessments, and controls.", "companies": ["gemini", "okta"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Aurora", "definition": "AWS relational database with MySQL and PostgreSQL compatibility.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "AUSTRAC", "definition": "Australia's financial intelligence agency responsible for AML/CTF regulation and oversight.", "companies": ["gemini"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Auth0", "definition": "Identity/authentication-as-a-service platform for adding login, SSO, and user management to applications.", "companies": ["clickhouse"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Authentication", "definition": "The process of verifying a user's or system's identity before granting access, typically via credentials, tokens, or biometrics.", "explanation": "Distinct from authorization, which governs what an already-verified identity is allowed to do -- authentication only answers 'who are you,' not 'what can you access.'", "analogy": "", "companies": ["clever"], "disputed": false}
 {"term": "Auto-labeling", "definition": "Automated process of assigning labels to training data using models or heuristics.", "companies": ["maymobility"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AutoCAD", "definition": "Computer-aided design software for creating technical drawings and plans.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "AutoGen", "definition": "Microsoft open-source framework for multi-agent AI systems.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Automated speech recognition (ASR)", "definition": "Technology for converting spoken audio into text; a background area and in-production system experience sought for Roku's Voice engineering role.", "companies": ["roku"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Automation Anywhere", "definition": "A commercial robotic process automation platform for building and deploying software bots.", "companies": ["okta"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Automotive SoC", "definition": "System-on-Chip designed for automotive computing platforms.", "companies": ["aurorainnovation"], "disputed": false, "explanation": "", "analogy": ""}
@@ -231,31 +252,58 @@
 {"term": "Avro", "definition": "Data serialization format commonly used with Kafka for schema-based message encoding.", "companies": ["newrelic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AWS", "definition": "Amazon Web Services -- Amazon's cloud computing platform.", "companies": ["abnormalsecurity", "aurorainnovation", "billiontoone", "cloudflare", "coalition", "datacamp", "dataiku", "flatironhealth", "formic", "garnerhealth", "gitlab", "huntress", "mongodb", "newsela", "omadahealth", "recordedfuture", "samsara", "stockx", "toast", "wizinc"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "AWS AgentCore", "definition": "An AWS service for deploying and operating AI agents in production.", "companies": ["okta"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "AWS Amplify", "definition": "AWS platform for building and hosting web and mobile apps.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "AWS Athena", "definition": "Serverless SQL query service over data in S3.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "AWS Aurora PostgreSQL", "definition": "AWS Aurora edition compatible with PostgreSQL.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "AWS Batch", "definition": "AWS service for running batch computing workloads at scale.", "companies": ["billiontoone"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AWS Bedrock", "definition": "A managed AWS service providing access to foundation models for building generative AI applications.", "companies": ["coinbase", "okta"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "AWS Budgets", "definition": "AWS service for setting cost and usage budgets with alerts.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "AWS CDK", "definition": "AWS Cloud Development Kit -- a framework for defining cloud infrastructure using familiar programming languages instead of raw config files.", "companies": ["okta"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AWS Certified", "definition": "AWS cloud certification called out as a nice-to-have for this technical support role.", "companies": ["newrelic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AWS CloudFormation", "definition": "AWS's native infrastructure-as-code service for provisioning and managing cloud resources via templates.", "companies": ["airtable"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AWS CloudWatch", "definition": "An AWS monitoring and observability service for cloud resources and applications.", "companies": ["samsara"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "AWS CodeBuild", "definition": "AWS managed build service that compiles code and runs tests.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "AWS CodeDeploy", "definition": "AWS service that automates deploying applications to EC2, Lambda and ECS.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "AWS CodePipeline", "definition": "A managed continuous delivery service for automating build, test, and deploy pipelines on AWS.", "companies": ["robinhood"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "AWS Config", "definition": "AWS service that tracks resource configuration and compliance.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "AWS Control Tower", "definition": "AWS service that sets up and governs a multi-account environment.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "AWS D1.1", "definition": "American Welding Society standard for structural welding code.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AWS D1.2", "definition": "American Welding Society standard for aluminum structural welding code.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AWS D1.6", "definition": "American Welding Society standard for stainless steel structural welding code.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AWS D17.1", "definition": "American Welding Society standard for welding symbols and related conventions.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "AWS ECS", "definition": "AWS container orchestration service.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "AWS Fargate", "definition": "Serverless compute engine for containers on AWS.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "AWS Glue", "definition": "AWS managed ETL and data catalog service.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "AWS GovCloud", "definition": "An isolated AWS region designed to meet US government regulatory and compliance requirements.", "companies": ["okta"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "AWS IAM", "definition": "AWS identity and access management service.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "AWS Lambda", "definition": "A serverless compute service that runs code in response to events without provisioning servers.", "companies": ["billiontoone", "samsara"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "AWS Marketplace", "definition": "Cloud marketplace where ClickHouse runs CSP transactions and private-offer deals.", "companies": ["clickhouse", "singlestore"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "AWS Neptune", "definition": "Amazon's managed graph database service, supporting property graph and RDF graph models.", "companies": ["recordedfuture"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "AWS Organizations", "definition": "AWS service for managing multiple accounts centrally.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "AWS RDS", "definition": "Amazon Relational Database Service, a managed relational database offering on AWS.", "companies": ["samsara"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AWS SageMaker", "definition": "AWS's managed platform for building, training, and deploying machine learning models.", "companies": ["marqeta"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AWS Secrets Manager", "definition": "An AWS service for securely storing and rotating credentials, API keys, and other secrets.", "companies": ["samsara"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "AWS Security Specialty", "definition": "An AWS certification validating specialized expertise in securing workloads and data on AWS.", "companies": ["okta"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "AWS Service Catalog", "definition": "AWS service for publishing approved infrastructure templates to teams.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "AWS Solutions Architect Professional", "definition": "An advanced AWS certification validating expertise in designing complex, distributed systems on AWS.", "companies": ["okta"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "AWS VPC", "definition": "AWS virtual private cloud for isolated networking.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Azure", "definition": "Microsoft's cloud computing platform.", "companies": ["abnormalsecurity", "cloudflare", "dataiku", "huntress", "mongodb", "recordedfuture", "samsara", "stockx", "wizinc"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Azure Automation", "definition": "Azure service for automating cloud tasks with runbooks.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Azure Blob Storage", "definition": "Azure object storage for unstructured data.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Azure Certified", "definition": "Azure cloud certification called out as a nice-to-have for this technical support role.", "companies": ["newrelic"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Azure Container Apps", "definition": "Azure serverless platform for running containerized apps.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Azure DevOps", "definition": "Microsoft's suite for source control, CI/CD pipelines and work tracking.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Azure Event Hub", "definition": "Azure managed service for high-throughput event streaming.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Azure Foundry", "definition": "Microsoft Azure's platform for building, deploying, and managing AI models and agents.", "companies": ["okta"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Azure Functions", "definition": "Microsoft Azure's serverless compute service for running event-driven code without managing servers.", "companies": ["newrelic"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Azure Key Vault", "definition": "Azure service for storing secrets, keys and certificates.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Azure Kubernetes Service", "definition": "Microsoft's managed Kubernetes service.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Azure Log Analytics", "definition": "Azure service for querying and analyzing log data.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Azure Marketplace", "definition": "Cloud marketplace where ClickHouse runs CSP transactions and private-offer deals.", "companies": ["clickhouse", "singlestore"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Azure Monitor", "definition": "Microsoft Azure service for collecting and analyzing telemetry.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Azure Service Bus", "definition": "Azure managed message broker for queues and topics.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Azure SQL", "definition": "Microsoft's managed SQL Server-based database service.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Azure Storage", "definition": "Microsoft's cloud storage services (blobs, queues, tables).", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "B2B Marketing", "definition": "Marketing strategies and tactics targeting business-to-business customers and decision-makers.", "companies": ["omadahealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "B2B Payments", "definition": "Business-to-business payment products and domain.", "companies": ["brex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "B2B SaaS", "definition": "Business-to-business Software-as-a-Service -- subscription software sold to other companies rather than individual consumers.", "companies": ["simpplr"], "disputed": false, "explanation": "", "analogy": ""}
@@ -273,7 +321,11 @@
 {"term": "Bazel", "definition": "An open-source build and test tool that supports large, multi-language codebases with fast, reproducible builds.", "companies": ["mixpanel"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "BBC", "definition": "British Broadcasting Corporation; Roku's Regional TV Software role supports certification processes with the BBC as part of meeting UK broadcast standards.", "companies": ["roku"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "BDD testing", "definition": "Behavior Driven Development testing approach specifying software behavior in human-readable scenarios.", "companies": ["synack"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Beam", "definition": "Apache programming model for batch and streaming data pipelines.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "BEC", "definition": "Business Email Compromise -- a scam in which an attacker impersonates a trusted party over email to induce a fraudulent payment or data disclosure.", "companies": ["abnormalsecurity"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Bedrock agents", "definition": "AWS service for building AI agents on Amazon Bedrock.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Bedrock Guardrails", "definition": "AWS controls that filter model inputs and outputs for safety.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Bedrock Knowledge Bases", "definition": "AWS managed retrieval-augmented generation service.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Behavior cloning", "definition": "Machine learning technique where an agent learns to mimic expert behavior from demonstrations.", "companies": ["diligentrobotics"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Behavior prediction", "definition": "Predicting future actions and trajectories of agents in a scene.", "companies": ["maymobility"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Behavioral Change", "definition": "Psychological interventions and strategies designed to modify patient health behaviors.", "companies": ["omadahealth"], "disputed": false, "explanation": "", "analogy": ""}
@@ -285,6 +337,7 @@
 {"term": "BI tools", "definition": "Business Intelligence software used to analyze and visualize business data.", "companies": ["gitlab"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Bidding models", "definition": "The mechanisms (e.g. cost-per-click, cost-per-impression) by which advertisers pay and compete for ad placements.", "companies": ["pinterest"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "BigQuery", "definition": "Google Cloud's serverless, highly scalable data warehouse.", "companies": ["collectivehealth", "gitlab", "khanacademy", "sigmacomputing"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Bigtable", "definition": "Google's wide-column NoSQL database for large-scale workloads.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Bilingual sales", "definition": "Sales work conducted fluently in two languages (here, English and Spanish) to serve a specific customer segment.", "companies": ["toast"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Bill of Materials", "definition": "Comprehensive list of components, quantities, and specifications for a product.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "BIN Sponsorship", "definition": "An arrangement where a licensed bank provides its Bank Identification Number to a card program to enable card issuing under card network rules.", "companies": ["marqeta"], "disputed": false, "explanation": "", "analogy": ""}
@@ -292,6 +345,7 @@
 {"term": "Biological Dataset", "definition": "Collection of biological data used for research and analysis.", "companies": ["freenome"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Biometric Screening", "definition": "Assessment of health metrics like weight, blood pressure, and blood work.", "companies": ["onemedical"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Biosafety Level 2 (BSL-2)", "definition": "Laboratory biosafety classification for agents posing moderate biohazard risk.", "companies": ["natera"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Bitbucket Pipelines", "definition": "Bitbucket's built-in CI/CD service.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Bizible", "definition": "Marketing attribution platform (Marketo/Adobe).", "companies": ["cribl"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "BlackLine", "definition": "A cloud platform for automating financial close, account reconciliation, and controls management.", "companies": ["gusto"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Blameless", "definition": "Incident management/SRE platform.", "companies": ["cribl"], "disputed": false, "explanation": "", "analogy": ""}
@@ -310,6 +364,7 @@
 {"term": "Bot Management", "definition": "A security capability that detects and mitigates automated, non-human traffic to a website or API.", "companies": ["cloudflare"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Boulder", "definition": "Open-source ACME server implementation (also used by Let's Encrypt) that Fastly's Certainly CA is built on.", "companies": ["fastly"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "bpf", "definition": "Berkeley Packet Filter (and its extended form eBPF), a Linux kernel technology for safe, sandboxed in-kernel programs used for tracing, profiling, and networking.", "companies": ["singlestore"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Braintrust", "definition": "Platform for evaluating and monitoring LLM applications.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Brand research", "definition": "Research into how a brand is perceived by customers or the market, used to inform marketing and product strategy.", "companies": ["pinterest"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Brazing", "definition": "Metal joining process using a filler metal heated above melting point.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "BrowserStack", "definition": "A cloud platform providing real browsers and devices for cross-browser and mobile testing.", "companies": ["bitwarden"], "disputed": false, "explanation": "", "analogy": ""}
@@ -376,6 +431,7 @@
 {"term": "CECL", "definition": "Current Expected Credit Loss, a U.S. GAAP accounting standard requiring lenders to estimate lifetime expected credit losses upfront.", "companies": ["sofi"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "CeFi", "definition": "Centralized Finance -- financial services (like exchanges) operated by a central custodial entity, as opposed to DeFi.", "companies": ["gemini"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "CEH", "definition": "Certified Ethical Hacker -- a certification demonstrating skills in identifying and exploiting vulnerabilities using the same tools as attackers.", "companies": ["abnormalsecurity"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Celery", "definition": "Distributed task queue for Python.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Cell-Free DNA", "definition": "DNA fragments circulating in blood that can be analyzed for diagnostic purposes.", "companies": ["billiontoone"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Cell-Free DNA (cfDNA) Testing", "definition": "Laboratory test detecting circulating DNA fragments from cells in blood.", "companies": ["natera"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Central Limit Order Book (CLOB)", "definition": "A trading mechanism that matches buy and sell orders based on price-time priority, maintaining a visible book of outstanding orders.", "companies": ["gemini"], "disputed": false, "explanation": "", "analogy": ""}
@@ -394,6 +450,7 @@
 {"term": "Change Data Capture", "definition": "Feature (CDC) streaming database changes as they happen; a core CockroachDB capability owned by the Database Platform group.", "companies": ["cockroachlabs"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Change Data Capture (CDC)", "definition": "A technique for identifying and capturing changes made to data so they can be propagated to downstream systems in near real-time.", "companies": ["coinbase"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Change Management", "definition": "A structured approach to guiding organizations and people through transitions or transformations.", "companies": ["gitlab", "iterativehealth"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Change Streams", "definition": "MongoDB feature that streams real-time data change events.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Channel Operations", "definition": "The operational function that supports indirect/reseller sales motions -- pricing, agreements, and partner program administration.", "companies": ["singlestore"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Channel Partner Management", "definition": "The practice of recruiting, enabling, and managing third-party resellers or distributors who sell a company's product.", "companies": ["okta"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "CHAPS", "definition": "The UK's same-day, high-value interbank payment system for sterling transactions.", "companies": ["gemini"], "disputed": false, "explanation": "", "analogy": ""}
@@ -441,6 +498,7 @@
 {"term": "Clari", "definition": "Sales forecasting/revenue intelligence platform.", "companies": ["bitwarden", "fastly", "recordedfuture", "synack"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Classification", "definition": "A machine learning modeling technique listed among the ML fundamentals expected for Roku's ML engineering role.", "companies": ["maymobility", "roku"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Claude", "definition": "Anthropic's family of large language model-based AI assistants.", "companies": ["abnormalsecurity", "elastic", "komodohealth", "samsara", "squarespace"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Claude Agent SDK", "definition": "Anthropic SDK for building agents with Claude.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Claude Code", "definition": "Anthropic's agentic coding tool that runs in the terminal to help write and modify code.", "companies": ["abnormalsecurity", "billiontoone", "datacamp", "hightouch", "huntress", "singlestore", "toast"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Claude Cowork", "definition": "An Anthropic Claude product/mode for collaborative AI-assisted work.", "companies": ["toast"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Claude Fable", "definition": "Frontier LLM cited as one of the AI coding assistant models available to engineers at Grafana Labs.", "companies": ["grafanalabs"], "disputed": false, "explanation": "", "analogy": ""}
@@ -479,12 +537,17 @@
 {"term": "Cloud Provider Certification", "definition": "A vendor certification (e.g. AWS, Azure, GCP) demonstrating cloud platform expertise.", "companies": ["mongodb"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Cloud Run", "definition": "Google Cloud fully managed compute service for running containerized applications without servers.", "companies": ["collectivehealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Cloud Security", "definition": "Practices and technologies that protect cloud infrastructure, data, and workloads from threats.", "companies": ["samsara", "synack", "wizinc"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Cloud Spanner", "definition": "Google's globally distributed relational database.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Cloud SQL", "definition": "Google's managed relational database service.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Cloud Technologies", "definition": "Broad category referring to cloud computing platforms and services.", "companies": ["samsara"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "cloud-native development", "definition": "Development approach building applications for cloud environments, cited as an industry trend to track.", "companies": ["postman"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Cloud-Native Security", "definition": "Security practices and tools designed for applications built on cloud platforms.", "companies": ["wizinc"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Cloudflare", "definition": "A cloud platform providing CDN, DNS, DDoS protection, and edge security/networking services.", "companies": ["gusto"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Cloudflare WARP", "definition": "Cloudflare's client application that securely routes device traffic through its network as part of a Zero Trust setup.", "companies": ["gusto"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Cloudflare Workers", "definition": "Cloudflare's serverless edge compute platform for running code close to end users.", "companies": ["postman"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "CloudFormation", "definition": "AWS infrastructure-as-code service that provisions resources from declarative templates.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "CloudNativePG", "definition": "Kubernetes operator for running PostgreSQL.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "CloudTrail", "definition": "AWS service that records API calls for auditing.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "CloudZero", "definition": "Dedicated FinOps platform for tracking and analyzing cloud infrastructure costs.", "companies": ["cockroachlabs"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "cluster tuning", "definition": "The practice of configuring and optimizing a distributed system cluster (e.g., Elasticsearch) for performance and scale.", "companies": ["elastic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Clustering", "definition": "Unsupervised machine learning technique that groups data points with similar characteristics.", "companies": ["khanacademy"], "disputed": false, "explanation": "", "analogy": ""}
@@ -502,7 +565,9 @@
 {"term": "Cobots", "definition": "Collaborative robots designed to work safely alongside human workers.", "companies": ["formic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "COBRA", "definition": "Consolidated Omnibus Budget Reconciliation Act enabling continuation of health insurance after employment.", "companies": ["carrotfertility"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "CockroachDB", "definition": "A distributed SQL database designed for horizontal scalability and resilience across regions.", "companies": ["gusto"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "CodePipeline", "definition": "AWS managed CI/CD orchestration service.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Codex", "definition": "OpenAI's AI system for translating natural language instructions into code.", "companies": ["stockx"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Cognito", "definition": "AWS managed service for user sign-up, sign-in and access control.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "COGS", "definition": "Cost of Goods Sold; a margin-analysis metric cloud cost allocation feeds into.", "companies": ["cockroachlabs"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Cohort Analysis", "definition": "Analytical technique grouping users with shared characteristics or behaviors to measure patterns and performance.", "companies": ["datacamp", "hightouch"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Coil", "definition": "Form of sheet metal material wound in a continuous roll.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
@@ -531,17 +596,20 @@
 {"term": "Composable CDP", "definition": "A customer data platform architecture that activates data directly from a company's existing data warehouse rather than storing a separate copy.", "companies": ["hightouch"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Composites", "definition": "Materials made from two or more constituent materials with different properties.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Computer Vision", "definition": "Field of AI focused on enabling machines to interpret and process visual information.", "explanation": "", "analogy": "", "companies": ["maymobility"], "disputed": false}
+{"term": "Conan", "definition": "C and C++ package manager.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "confidence intervals", "definition": "Statistical range expressing the uncertainty of an estimated metric, used in interpreting experiment results.", "companies": ["amplitude"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Confidentiality", "definition": "Protection of sensitive information from unauthorized disclosure or access.", "companies": ["moxehealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Configuration as Code", "definition": "Managing application or system configuration through version-controlled, machine-readable files.", "companies": ["gitlab"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Configure, Price, Quote (CPQ)", "definition": "Software tool for automating sales configuration, pricing, and quote generation.", "companies": ["flatironhealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Confluence", "definition": "Atlassian's collaborative documentation and knowledge-base tool.", "companies": ["toast"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Conftest", "definition": "Tool that tests configuration files against policies.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Connectors", "definition": "Integration modules that link different software systems and enable data flow between them.", "companies": ["datacamp"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Constant Contact", "definition": "An email marketing and campaign management platform.", "companies": ["recordedfuture"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Consultative selling", "definition": "A sales approach focused on understanding customer needs before proposing a tailored solution.", "companies": ["toast"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Consulting", "definition": "Expert advisory and professional services.", "companies": ["dataiku"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "consumption-based pricing model", "definition": "A pricing model where customers are billed based on actual usage of a product/service rather than a flat subscription.", "companies": ["elastic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Container Orchestration", "definition": "Software that automates the deployment, scaling, and management of containerized applications across a cluster.", "companies": ["billiontoone", "webflow"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Containerd", "definition": "Container runtime used by Kubernetes nodes.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Containerization", "definition": "Packaging applications and dependencies into isolated containers for deployment.", "companies": ["maymobility"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Content infrastructure", "definition": "The backend systems and tooling that enable creation, iteration, and delivery of lesson/exercise content at scale.", "companies": ["duolingo"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Context Graph", "definition": "Postman AI platform component representing relationships across a user's API workspace.", "companies": ["postman"], "disputed": false, "explanation": "", "analogy": ""}
@@ -560,13 +628,16 @@
 {"term": "Conversion", "definition": "Action of transforming a visitor or prospect into a paying customer or desired outcome.", "companies": ["datacamp"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Conversion reporting", "definition": "Reporting that measures how many users completed a desired action (such as a purchase) attributable to an ad or campaign.", "companies": ["pinterest"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Conveyor systems", "definition": "Mechanical systems for moving materials or products through manufacturing processes.", "companies": ["formic"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Copilot", "definition": "AI coding assistant that suggests code in an editor.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Copper", "definition": "Conductive metal used in wiring and thermal management applications.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Copy Number Variant (CNV)", "definition": "Genetic variation involving duplication or deletion of DNA segments.", "companies": ["natera"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "copywriting", "definition": "The craft of writing persuasive marketing/advertising text for campaigns and content.", "companies": ["cloudflare"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Core Web Vitals", "definition": "Google's set of standardized metrics (loading, interactivity, visual stability) measuring real-world web page user experience.", "companies": ["robinhood"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Corporate Liability Underwriting", "definition": "Underwriting model where the business entity, not an individual, is liable for credit extended.", "companies": ["brex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "CORS", "definition": "Cross-Origin Resource Sharing; a browser security mechanism controlling cross-origin requests.", "companies": ["tailscale"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Cosmos DB", "definition": "Azure globally distributed, multi-model database.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "COSO Framework", "definition": "A widely used internal control framework published by the Committee of Sponsoring Organizations, foundational to SOX compliance.", "companies": ["gusto"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Cost Explorer", "definition": "AWS tool for analyzing and forecasting cloud spending.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "cost modeling", "definition": "The practice of building financial models to estimate and compare the costs of infrastructure, projects, or business decisions.", "companies": ["cloudflare", "samsara"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Coupa", "definition": "A cloud-based procurement and business spend management platform.", "companies": ["sofi"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "CPA", "definition": "Certified Public Accountant -- a licensed accounting professional credential.", "companies": ["formic", "gitlab", "okta"], "disputed": true, "explanation": "", "analogy": ""}
@@ -612,6 +683,7 @@
 {"term": "Curriculum Design", "definition": "Process of planning and organizing educational content, learning objectives, and course structure.", "companies": ["datacamp"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Curriculum development", "definition": "Process of designing educational programs and training materials.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Cursor", "definition": "An AI-powered code editor used to assist software development.", "companies": ["abnormalsecurity", "billiontoone", "collectivehealth", "datacamp", "hightouch", "komodohealth", "toast"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Cursor AI", "definition": "AI-powered code editor.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Customer 360", "definition": "Salesforce's suite and data model for unifying customer data across sales, service, and marketing into a single view.", "companies": ["abnormalsecurity"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Customer Advisory Boards", "definition": "A recurring group of a company's key customers convened to give strategic feedback on product direction and priorities.", "companies": ["okta"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Customer Data Platform", "definition": "Software that unifies customer data from multiple sources into a single profile for marketing and analytics use.", "companies": ["hightouch"], "disputed": false, "explanation": "", "analogy": ""}
@@ -683,7 +755,11 @@
 {"term": "Database technologies", "definition": "Systems used for storing, querying, and managing structured or unstructured data.", "companies": ["duolingo"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Databricks", "definition": "A unified data analytics and AI platform built around Apache Spark and the lakehouse architecture.", "companies": ["abnormalsecurity", "coursera", "gitlab", "moxehealth", "samsara", "singlestore", "toast"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "DataDog", "definition": "A commercial cloud monitoring and observability platform for tracking application and infrastructure performance.", "companies": ["duolingo", "formic", "hightouch", "huntress", "samsara", "spacex"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Datadog APM", "definition": "Datadog application performance monitoring for tracing service requests.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Dataflow", "definition": "Google's managed service for batch and streaming data pipelines.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "DataOps", "definition": "Set of practices/tooling applying DevOps discipline to data pipeline development and operations.", "companies": ["clickhouse", "sigmacomputing"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "DB2", "definition": "IBM's relational database management system.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "DBOS", "definition": "Durable execution framework built on PostgreSQL.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "DBT", "definition": "Data Build Tool, an open-source tool for transforming data in the warehouse using SQL.", "companies": ["coinbase", "hightouch", "newsela", "samsara"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "DBT (Data Build Tool)", "definition": "Tool for transforming data in data warehouses using version-controlled SQL.", "companies": ["flatironhealth", "moxehealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "DDoS Protection", "definition": "Security measures designed to detect and mitigate distributed denial-of-service attacks that flood a service with traffic.", "companies": ["cloudflare", "gusto"], "disputed": true, "explanation": "", "analogy": ""}
@@ -695,12 +771,14 @@
 {"term": "Decision tree learning", "definition": "Supervised machine learning method that models decisions using a tree-like graph of choices and their outcomes.", "companies": ["khanacademy"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Deel", "definition": "A global payroll and HR platform for managing international employees and contractors.", "companies": ["airtable"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Deep Learning", "definition": "A subfield of machine learning using multi-layer neural networks to learn from large amounts of data.", "companies": ["freenome"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Deepgram", "definition": "Speech-to-text and voice AI API.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "DeepSpeed", "definition": "Microsoft library enabling efficient distributed deep learning training.", "companies": ["freenome"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Defense Industrial Base", "definition": "Sector of private industry critical to national defense supply chain.", "companies": ["synack"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "DeFi (Decentralized Finance)", "definition": "Financial applications built on blockchain networks that operate without centralized intermediaries like banks.", "companies": ["robinhood"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Delinquency management", "definition": "Process of managing overdue payments and loan defaults.", "companies": ["formic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Delivery operations", "definition": "Processes and logistics for transporting and delivering products to customers.", "companies": ["misfitsmarket"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Delta Lake", "definition": "An open-source storage layer that adds ACID transactions and schema enforcement on top of data lake storage, commonly used with Apache Spark.", "companies": ["recordedfuture"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Delta Live Tables", "definition": "Databricks framework for declarative data pipelines.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "DEM", "definition": "Digital Experience Monitoring; an observability discipline tracking real user/synthetic experience performance.", "companies": ["newrelic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Demand Generation", "definition": "The practice of generating and nurturing potential customer interest; a core responsibility of Roku's SDR role for its Ads Manager platform.", "explanation": "", "analogy": "", "companies": ["roku"], "disputed": false}
 {"term": "Demandbase", "definition": "An account-based marketing and sales intelligence platform used to identify and engage target accounts.", "companies": ["elastic"], "disputed": false, "explanation": "", "analogy": ""}
@@ -770,6 +848,7 @@
 {"term": "DORA metrics", "definition": "DevOps Research and Assessment metrics used to measure software delivery and operational performance.", "companies": ["gitlab"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Dosing", "definition": "Determination of appropriate drug amount and frequency for treatment.", "companies": ["waltzhealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "DPA", "definition": "Data Privacy Agreement; a standard commercial contract type referenced alongside security review processes.", "companies": ["postman"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Drata", "definition": "Compliance automation platform for security audits.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "DRIVE OS", "definition": "NVIDIA's operating system for autonomous vehicle platforms.", "companies": ["aurorainnovation"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Drug Therapies", "definition": "Treatment approaches using medications to manage health conditions.", "companies": ["waltzhealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Druid", "definition": "Apache Druid; a real-time analytics database optimized for fast slice-and-dice queries over large datasets.", "companies": ["clickhouse"], "disputed": false, "explanation": "", "analogy": ""}
@@ -813,9 +892,12 @@
 {"term": "EKS", "definition": "Amazon Elastic Kubernetes Service -- Amazon's managed Kubernetes offering.", "companies": ["abnormalsecurity", "recordedfuture"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "ELA", "definition": "Enterprise License Agreement; a large-scale negotiated licensing/procurement contract.", "companies": ["vercel"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Elastic", "definition": "Search and observability platform built around Elasticsearch (the ELK stack).", "companies": ["newrelic"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Elastic Beanstalk", "definition": "AWS service that deploys and scales web applications.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Elastic Certified Engineer", "definition": "A professional certification validating hands-on expertise in deploying and operating the Elastic Stack.", "companies": ["elastic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Elastic Stack", "definition": "The suite of tools (Elasticsearch, Logstash, Kibana, Beats) for search, log ingestion, and data visualization.", "companies": ["recordedfuture"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Elasticache", "definition": "AWS managed in-memory cache service (Redis and Memcached).", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "ElasticSearch", "definition": "Search and analytics engine for indexing and querying large datasets.", "companies": ["asana", "corelight", "elastic", "garnerhealth", "recordedfuture"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Elasticsearch/Solr/Lucene", "definition": "Search engines built on the Lucene library.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Electrical schematics", "definition": "Diagrams showing electrical connections and component arrangements.", "companies": ["formic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Electronic Health Record (EHR)", "definition": "Digital system for storing and managing patient medical information and clinical data.", "companies": ["flatironhealth", "moxehealth", "onemedical"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Electronic Medical Record (EMR)", "definition": "Digital system for storing and managing patient medical information.", "companies": ["cerebral"], "disputed": false, "explanation": "", "analogy": ""}
@@ -843,6 +925,7 @@
 {"term": "Enterprise messaging", "definition": "Asynchronous messaging systems used for reliable communication between backend services.", "companies": ["toast"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Enterprise Sales", "definition": "Sales discipline focused on selling large, complex solutions to large organizations.", "companies": ["komodohealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Entra", "definition": "Microsoft Entra ID (formerly Azure Active Directory) -- Microsoft's cloud-based identity and access management service.", "companies": ["huntress"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Entra ID", "definition": "Microsoft's cloud identity and access management service (formerly Azure AD).", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Envoy", "definition": "An open-source, high-performance edge and service proxy designed for cloud-native applications.", "companies": ["coinbase"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Epic", "definition": "Leading electronic health record system used across healthcare providers.", "companies": ["moxehealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "ePrivacy Directive", "definition": "An EU directive governing privacy in electronic communications, including cookies and direct marketing.", "companies": ["coinbase"], "disputed": false, "explanation": "", "analogy": ""}
@@ -868,6 +951,7 @@
 {"term": "Event quality", "definition": "The completeness and accuracy of the tracked user-action events (e.g. purchases, sign-ups) an advertiser or platform relies on for measurement.", "companies": ["pinterest"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Event-driven architecture", "definition": "A software architecture pattern where components communicate by producing and consuming events.", "companies": ["goatgroup", "stockx", "toast"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Event-driven architectures", "definition": "Software architecture pattern centered on event production and consumption.", "companies": ["aurorainnovation"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "EventBridge", "definition": "AWS serverless event bus for routing events between services.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Evidence-Based Medicine", "definition": "Medical practice using current best evidence and clinical expertise for patient decisions.", "companies": ["onemedical"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Evidence-Based Practice", "definition": "Clinical approach based on scientific research and clinical evidence.", "companies": ["cerebral"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Evisort", "definition": "An AI-powered contract lifecycle management platform for contract analysis, extraction, and workflow automation.", "companies": ["coinbase"], "disputed": false, "explanation": "", "analogy": ""}
@@ -900,6 +984,7 @@
 {"term": "FastAPI", "definition": "A modern, high-performance Python web framework for building APIs.", "companies": ["billiontoone", "recordedfuture", "samsara"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Fasteners", "definition": "Hardware items used to join or attach components together.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Faster Payments Service (FPS)", "definition": "The UK's near-instant retail payment system for transferring funds between bank accounts.", "companies": ["gemini"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Fastly", "definition": "Edge cloud platform for CDN and edge compute.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "FATCA", "definition": "The Foreign Account Tax Compliance Act, a U.S. law requiring foreign financial institutions to report on accounts held by U.S. taxpayers.", "companies": ["alpaca"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "FATF", "definition": "The Financial Action Task Force, an intergovernmental body that sets global standards for combating money laundering and terrorist financing.", "companies": ["bitgo"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "fault tolerance", "definition": "System design property of continuing to operate correctly despite failures.", "companies": ["abnormalsecurity", "clickhouse"], "disputed": false, "explanation": "", "analogy": ""}
@@ -923,6 +1008,7 @@
 {"term": "FHA Loan", "definition": "A mortgage insured by the Federal Housing Administration, typically allowing lower down payments and credit requirements.", "companies": ["sofi"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "FHIR", "definition": "Fast Healthcare Interoperability Resources standard for exchanging healthcare data.", "companies": ["iterativehealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Fiber delivery", "definition": "System for delivering continuous fibers in composite or material manufacturing.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Fiddler", "definition": "Platform for monitoring and explaining machine learning models.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Field Enablement", "definition": "Enablement programs tailored to the specific needs of a regional or segment-specific sales team.", "companies": ["samsara"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Field Sales", "definition": "Sales discipline involving direct territory-based selling to customer locations.", "companies": ["billiontoone"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Field service", "definition": "On-site technical support and maintenance provided to customer locations.", "companies": ["formic"], "disputed": false, "explanation": "", "analogy": ""}
@@ -940,6 +1026,8 @@
 {"term": "FINRA Series 63", "definition": "A U.S. securities license covering state law and regulations required to transact business within a state.", "companies": ["robinhood"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "FINRA Series 65", "definition": "A U.S. securities license required for individuals acting as investment adviser representatives.", "companies": ["sofi"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "FINRA Series 7", "definition": "A U.S. securities license permitting registered representatives to sell a broad range of securities products.", "companies": ["robinhood"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Firecracker", "definition": "Lightweight microVM manager used for serverless isolation.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Firehose", "definition": "AWS service that delivers streaming data to storage and analytics destinations.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "FireHydrant", "definition": "Incident management and response platform.", "companies": ["cribl"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Firewall", "definition": "Network security technology for filtering and controlling traffic; required knowledge for this Roku network engineering role.", "companies": ["roku"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "First Article Inspection", "definition": "Quality verification of first production sample before full-rate production.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
@@ -958,11 +1046,14 @@
 {"term": "Flipper", "definition": "A debugging platform for inspecting mobile apps, including React Native, iOS, and Android applications.", "companies": ["gemini"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Florence", "definition": "Clinical trial management system platform.", "companies": ["iterativehealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Flow Designer", "definition": "A ServiceNow no-code/low-code tool for building automated workflows.", "companies": ["toast"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Fluentd", "definition": "Open-source log collection and forwarding agent.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Fluid Compute", "definition": "Vercel's compute model for optimizing serverless function execution and cost.", "companies": ["vercel"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Fluid dynamics", "definition": "Study of fluid behavior and forces in flowing liquids and gases.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Fluid systems", "definition": "Interconnected components for transferring and managing liquids or gases.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Flux", "definition": "A GitOps continuous delivery tool for Kubernetes that keeps cluster state synced to a Git repository.", "companies": ["airtable"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "flux analysis", "definition": "Accounting technique comparing actual-vs-actual/budget financial results to spot variances during month-end close.", "companies": ["cockroachlabs"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "FluxCD", "definition": "GitOps tool that keeps Kubernetes clusters in sync with Git.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Flyway", "definition": "Versioned database migration tool.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "FMEA", "definition": "Failure Mode and Effects Analysis; systematic approach to identify potential failures.", "companies": ["diligentrobotics"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Foam insulation", "definition": "Lightweight insulating material used for thermal protection.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "FOCP", "definition": "FinOps Certified Practitioner; a certification for FinOps professionals.", "companies": ["cockroachlabs"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1022,6 +1113,7 @@
 {"term": "GCP", "definition": "Google Cloud Platform -- Google's cloud computing platform.", "companies": ["abnormalsecurity", "cloudflare", "gitlab", "iterativehealth", "mongodb", "newsela", "recordedfuture", "samsara", "stockx", "synack"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "GCP (Google Cloud Platform)", "definition": "Google's cloud computing platform providing infrastructure and services for applications.", "companies": ["wizinc"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "GCP Marketplace", "definition": "Cloud marketplace where ClickHouse runs CSP transactions and private-offer deals.", "companies": ["clickhouse", "singlestore"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "GCP Vertex AI", "definition": "Google Cloud's managed platform for building and deploying AI models.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "GD&T", "definition": "Geometric Dimensioning and Tolerancing; standard for engineering drawings.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "GDPR", "definition": "The General Data Protection Regulation, an EU law governing the collection and processing of personal data.", "companies": ["cloudflare", "datagrail", "pinterest"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Gem", "definition": "A recruiting CRM and sourcing platform used to build and manage candidate pipelines.", "companies": ["brex"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1048,9 +1140,11 @@
 {"term": "GitHub", "definition": "Cloud platform for version control and collaborative software development.", "companies": ["hightouch", "moxehealth"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "GitHub Actions", "definition": "GitHub's built-in CI/CD platform for automating build, test, and deployment workflows.", "companies": ["bugcrowd", "recordedfuture"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "GitHub Advanced Security", "definition": "GitHub's suite of code scanning, secret scanning, and dependency review security tools (GHAS).", "companies": ["vercel"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "GitHub Apps", "definition": "Integrations that extend GitHub with custom permissions and webhooks.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "GitHub Copilot", "definition": "An AI pair-programming tool that suggests code completions inside an editor.", "companies": ["abnormalsecurity", "billiontoone", "collectivehealth", "hightouch", "toast"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "GitLab", "definition": "DevOps platform providing source control, CI/CD, and related tooling.", "companies": ["datadog"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "GitLab CI", "definition": "GitLab's built-in continuous integration/continuous delivery pipeline tooling.", "companies": ["cloudflare"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "GitLab CI/CD", "definition": "GitLab's built-in continuous integration and delivery system.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "GitOps", "definition": "A practice of managing infrastructure and deployments using Git as the single source of truth.", "companies": ["gitlab", "huntress", "recordedfuture", "robinhood", "synack"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "GKE", "definition": "Google Kubernetes Engine; a managed Kubernetes offering referenced as a cloud-native technology.", "companies": ["newrelic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Glass fiber", "definition": "Fine fibers of glass used in composite materials for strength.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1067,6 +1161,7 @@
 {"term": "GoLang", "definition": "The Go programming language, known for simplicity, concurrency support, and performance in backend and infrastructure development.", "companies": ["abnormalsecurity", "cloudflare", "corelight", "huntress", "recordedfuture", "samsara", "synack"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "golden paths", "definition": "Standardized, paved-road development/deployment/testing patterns that reduce friction for internal engineers.", "companies": ["newrelic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Gong", "definition": "Conversation intelligence platform that records and analyzes sales calls.", "companies": ["abnormalsecurity", "bitwarden", "cbinsights", "clickhouse", "datagrail", "huntress", "komodohealth", "recordedfuture"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Google ADK", "definition": "Google's Agent Development Kit for building AI agents.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Google Ads", "definition": "Google's advertising platform, referenced as a comparable platform advertisers may also use.", "companies": ["pinterest"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Google Agent Development Kit (ADK)", "definition": "Google's open-source framework for building and orchestrating AI agents.", "companies": ["coinbase"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Google Agent SDK", "definition": "Software development kit for building and deploying AI agents on Google Cloud infrastructure.", "companies": ["collectivehealth"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1078,7 +1173,11 @@
 {"term": "Google Cloud Platform", "definition": "Google's cloud computing and infrastructure services.", "companies": ["dataiku"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Google Cloud Platform (GCP)", "definition": "Google's cloud computing platform for building, deploying, and managing applications.", "companies": ["collectivehealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Google Cloud Pub/Sub", "definition": "A fully managed messaging service on Google Cloud for asynchronous, event-driven communication between services.", "companies": ["mixpanel"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Google Cloud Run", "definition": "Google's serverless platform for running containers.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Google Cloud Storage", "definition": "Google's managed object storage service.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Google Kubernetes Engine", "definition": "Google's managed Kubernetes service.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Google Kubernetes Engine (GKE)", "definition": "Google Cloud's managed Kubernetes service for orchestrating containerized applications.", "companies": ["collectivehealth"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Google Pub/Sub", "definition": "Google's managed messaging service.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Google PubSub", "definition": "Google Cloud asynchronous messaging service for event streaming.", "companies": ["synack"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Google SecOps", "definition": "Google's cloud-native security operations platform (formerly Chronicle) for log ingestion, threat detection, and investigation.", "companies": ["okta", "recordedfuture"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Google Security Operations (Chronicle)", "definition": "Google Cloud's SIEM/SOAR platform for security telemetry ingestion, detection, and automated response.", "companies": ["mixpanel"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1097,7 +1196,9 @@
 {"term": "GPU Monitoring", "definition": "Datadog product area providing visibility into GPU compute usage for AI/ML workloads.", "companies": ["datadog"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "GPU Programming", "definition": "Development of code to run on graphics processing units for parallel computing.", "companies": ["freenome"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "GPUs", "definition": "Graphics Processing Units -- specialized hardware accelerators widely used for training and serving ML models.", "companies": ["cloudflare"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Gradle", "definition": "Build automation tool for JVM and other projects.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Grafana", "definition": "An open-source analytics and visualization platform commonly used to build dashboards for monitoring system metrics.", "companies": ["duolingo", "recordedfuture"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Grafana Alloy", "definition": "Grafana's telemetry collector for metrics, logs and traces.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Grafana Cloud", "definition": "Grafana Labs' fully managed observability platform.", "companies": ["grafanalabs"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Grafana Cloud Traces", "definition": "Grafana Cloud's managed distributed tracing product, built on Tempo.", "companies": ["grafanalabs"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Grafana Enterprise Traces", "definition": "Grafana's self-managed enterprise distributed tracing product (GET), built on Tempo.", "companies": ["grafanalabs"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1122,13 +1223,19 @@
 {"term": "GUI", "definition": "Graphical User Interface for software applications.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Guru", "definition": "A knowledge management platform that surfaces verified answers to employees inside their existing workflow tools.", "companies": ["mercury"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "GustoPro", "definition": "Gusto's dedicated platform and program for accounting and bookkeeping partners managing multiple client payrolls.", "companies": ["gusto"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "gVisor", "definition": "User-space kernel sandbox for container isolation.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "HackerOne", "definition": "A popular platform used to run crowdsourced bug bounty and vulnerability disclosure programs.", "companies": ["cloudflare"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Hadoop", "definition": "Open-source framework for distributed storage and processing.", "companies": ["dataiku"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Hadoop Distributed File System (HDFS)", "definition": "Distributed storage system for handling large-scale data.", "companies": ["freenome"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Hand tools", "definition": "Non-powered tools used manually for assembly and repair work.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Harbor", "definition": "Open-source container image registry.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Hardware reliability", "definition": "Engineering discipline ensuring hardware performs reliably over time.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Hashicorp Boundary", "definition": "Identity-based access tool for remote infrastructure.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Hashicorp Consul", "definition": "Service discovery and service mesh tool.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "HashiCorp Vault", "definition": "Secrets management and encryption service.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Haskell", "definition": "A purely functional programming language known for strong static typing and lazy evaluation.", "companies": ["mercury"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "HAZWOPER", "definition": "Hazardous Waste Operations & Emergency Response certification.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "HBase", "definition": "Apache wide-column database built on HDFS.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "HbbTV", "definition": "Hybrid Broadcast Broadband TV, a European broadcast standard Roku's Regional TV Software role ports and adapts its software to meet.", "companies": ["roku"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "HCL", "definition": "HashiCorp Configuration Language -- the declarative language used to write Terraform configuration files.", "companies": ["huntress"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "HCP Segmentation", "definition": "Categorization of healthcare providers into groups based on characteristics and behaviors.", "companies": ["komodohealth"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1151,6 +1258,7 @@
 {"term": "Heatshield", "definition": "Protective layer designed to withstand and dissipate extreme heat.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Helios", "definition": "SingleStore's managed cloud service that autonomously deploys, scales, secures, and heals database clusters across AWS, Azure, and GCP.", "companies": ["singlestore"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Helm", "definition": "A package manager for Kubernetes that simplifies defining, installing, and upgrading applications via charts.", "companies": ["abnormalsecurity", "coinbase", "wizinc"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Helm Charts", "definition": "Packaged Kubernetes application templates managed with Helm.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "HELOC", "definition": "Home Equity Line of Credit, a revolving credit line secured by the borrower's home equity.", "companies": ["sofi"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Help Desk", "definition": "A support function that provides frontline technical assistance and issue triage to end users.", "companies": ["huntress"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Hepatology", "definition": "Medical specialty focused on liver and hepatic diseases.", "companies": ["iterativehealth"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1190,6 +1298,7 @@
 {"term": "IaaS", "definition": "Infrastructure as a Service, a cloud computing model providing virtualized computing resources over the internet.", "companies": ["mongodb"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "IaC", "definition": "Infrastructure as Code -- managing and provisioning infrastructure through machine-readable configuration files instead of manual processes.", "companies": ["huntress"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "IAM", "definition": "Identity and Access Management -- systems and policies controlling who can access what resources.", "companies": ["okta", "recordedfuture", "samsara", "toast"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "IAM Identity Center", "definition": "AWS service for centralized workforce single sign-on.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "IAST", "definition": "Interactive Application Security Testing -- security testing that instruments a running application to detect vulnerabilities during normal use or automated tests.", "companies": ["recordedfuture"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "IATA", "definition": "International Air Transport Association regulations for shipping hazardous materials.", "companies": ["iterativehealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "IBD", "definition": "Inflammatory Bowel Disease including conditions like Crohn's disease and ulcerative colitis.", "companies": ["iterativehealth"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1219,6 +1328,7 @@
 {"term": "Incident Management", "definition": "The process of responding to and resolving unplanned service disruptions or outages.", "companies": ["mongodb"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Incident Response", "definition": "The structured process of detecting, triaging, and resolving operational or security incidents to restore normal service.", "explanation": "", "analogy": "", "companies": ["abnormalsecurity", "garnerhealth", "gitlab", "roku"], "disputed": true}
 {"term": "Incident response planning", "definition": "The pre-defined procedures an organization follows to detect, contain, and recover from a security incident.", "companies": ["pinterest"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Incident.io", "definition": "Incident response and on-call coordination platform.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Incrementality Testing", "definition": "An experimental method for measuring the true causal lift a marketing channel or campaign generates versus what would have happened anyway.", "companies": ["chime", "pinterest"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Industrial automation", "definition": "Use of control systems and robotics to automate manufacturing and production processes.", "companies": ["formic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Industrial design", "definition": "Design discipline focused on aesthetic and functional product development.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1297,6 +1407,7 @@
 {"term": "ITSM (IT Service Management)", "definition": "The set of practices and tools for managing IT services, including incident, problem, and change management.", "companies": ["gusto"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "ITSM/ESM", "definition": "IT Service Management and Enterprise Service Management -- frameworks and software for delivering and managing internal service requests, incidents, and workflows.", "companies": ["asana"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "IXP", "definition": "Internet Exchange Point -- a physical facility where multiple networks interconnect and exchange traffic.", "companies": ["cloudflare"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Jaeger", "definition": "Open-source distributed tracing system.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "JAMF", "definition": "Apple device management platform used to manage macOS endpoints under Roku's IT Support manager role.", "companies": ["roku"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "JASDEC", "definition": "The Japan Securities Depository Center, responsible for custody and settlement of Japanese securities.", "companies": ["alpaca"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Java", "definition": "A general-purpose, object-oriented programming language designed to run on any platform via the JVM.", "companies": ["aurorainnovation", "cloudflare", "duolingo", "flatironhealth", "freenome", "mongodb", "roku", "toast"], "disputed": true, "explanation": "", "analogy": ""}
@@ -1335,12 +1446,16 @@
 {"term": "Kafka Connect", "definition": "Kafka's connector framework; ClickHouse builds a data-ecosystem connector for it.", "companies": ["clickhouse"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Kafka Streams", "definition": "Client library for building stream-processing applications on top of Apache Kafka.", "companies": ["newrelic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Kanban", "definition": "A visual workflow methodology that manages work by limiting work-in-progress across a board of stages.", "companies": ["huntress"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Karpenter", "definition": "Kubernetes node autoscaler that provisions capacity on demand.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Kata Containers", "definition": "Container runtime that runs each container in a lightweight VM.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "KCS", "definition": "Knowledge Centered Support; a support methodology for capturing knowledge while resolving customer issues.", "companies": ["newrelic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Kernel Development", "definition": "Programming at the operating-system kernel level, such as writing drivers or modifying core OS internals.", "companies": ["singlestore"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Keycloak", "definition": "An open-source identity and access management platform supporting SSO, OpenID Connect, and SAML.", "companies": ["alpaca"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Kibana", "definition": "Web interface for searching and visualizing Elasticsearch data.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "kill switches", "definition": "A safety mechanism to instantly disable a risky feature or rollout.", "companies": ["launchdarkly"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Kinematics", "definition": "Study of motion and how bodies move, key to understanding vehicle dynamics.", "companies": ["maymobility"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Kinesis", "definition": "AWS's real-time data streaming service for ingesting and processing high-throughput data.", "companies": ["clickhouse"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "KMS", "definition": "Key management service for creating and controlling encryption keys.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Know Your Business (KYB)", "definition": "The due diligence process of verifying a business entity's identity, ownership, and legitimacy before onboarding it as a customer.", "companies": ["marqeta"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Knowledge Centered Service", "definition": "KCS -- a methodology for capturing and reusing support knowledge as part of the issue-resolution process.", "companies": ["elastic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Knowledge Graph", "definition": "A graph-based data model representing entities (e.g. software delivery artifacts) and their relationships -- GitLab's product for near-real-time development-ecosystem data.", "companies": ["gitlab"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1358,10 +1473,17 @@
 {"term": "KQL", "definition": "Kusto Query Language, used to query Microsoft Sentinel/Azure Data Explorer data.", "companies": ["cribl"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "kubectl", "definition": "Command-line tool for interacting with Kubernetes clusters.", "companies": ["tailscale"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Kubeflow", "definition": "An open-source platform for deploying and managing machine learning workflows on Kubernetes.", "companies": ["affirm"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "KubeRay", "definition": "Kubernetes operator for running Ray clusters.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Kubernetes", "definition": "An open-source system for automating deployment, scaling, and management of containerized applications.", "companies": ["abnormalsecurity", "cloudflare", "dataiku", "freenome", "garnerhealth", "gitlab", "grafanalabs", "mongodb", "omadahealth", "recordedfuture", "synack", "toast", "wizinc"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Kubernetes controllers", "definition": "Control loops that reconcile a cluster's actual state with its desired state.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Kubernetes networking", "definition": "Pod, service and ingress networking in Kubernetes.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Kubernetes Operator", "definition": "A pattern for extending Kubernetes to automate the management of complex, stateful applications using custom controllers.", "companies": ["alpaca"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Kubernetes operators", "definition": "Custom controllers that automate managing an application on Kubernetes.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Kubernetes packaging", "definition": "Methods for packaging and distributing Kubernetes applications.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Kubernetes storage", "definition": "Persistent volumes and storage classes for Kubernetes workloads.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "KUKA", "definition": "German industrial robotics manufacturer.", "companies": ["formic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "KV", "definition": "Cloudflare Workers KV -- a globally distributed, eventually consistent key-value data store.", "companies": ["cloudflare"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "KVM", "definition": "Linux kernel virtualization module.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "KYC", "definition": "Know Your Customer; compliance process for verifying bank account signatories and customers.", "companies": ["brex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "L7 protocol classification", "definition": "Identifying and decoding Layer 7 (application-layer) network protocols from raw traffic.", "companies": ["datadog"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Lab Services", "definition": "Clinical laboratory services for specimen collection and testing.", "companies": ["onemedical"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1369,9 +1491,11 @@
 {"term": "Laboratory Information System (LIS)", "definition": "Software system managing laboratory tests, results, and patient information.", "companies": ["billiontoone"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Laboratory Testing", "definition": "Analysis of biological specimens to diagnose disease or monitor health conditions.", "companies": ["natera"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "LabVIEW", "definition": "Visual programming environment for data acquisition, analysis, and system control.", "companies": ["diligentrobotics"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Lambda", "definition": "AWS serverless function service.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Land & Expand", "definition": "SaaS sales strategy of starting small within an account and growing usage/spend over time.", "companies": ["launchdarkly"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Lane network mapping", "definition": "Detailed mapping of lane structure, connectivity, and geometry for autonomous driving.", "companies": ["maymobility"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "LangChain", "definition": "An open-source framework for building applications powered by large language models, including agent and retrieval workflows.", "companies": ["collectivehealth", "okta"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Langfuse", "definition": "Open-source platform for tracing and evaluating LLM applications.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "LangGraph", "definition": "Framework for building stateful multi-agent LLM applications.", "companies": ["collectivehealth", "launchdarkly"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "LangSmith", "definition": "A platform for debugging, testing, and monitoring LLM applications and agent pipelines.", "companies": ["coinbase"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Lapping", "definition": "Fine finishing process using abrasive lapping compound and plate.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1405,7 +1529,11 @@
 {"term": "LinkedIn Recruiter", "definition": "LinkedIn's paid tool for sourcing, contacting, and tracking candidates.", "companies": ["brex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "LinkedIn Sales Navigator", "definition": "A LinkedIn subscription tool that helps sales professionals find and engage prospects using advanced search and insights.", "companies": ["corelight", "elastic"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Linux", "definition": "An open-source, Unix-like operating system widely used for servers, cloud infrastructure, and embedded systems.", "companies": ["aurorainnovation", "bugcrowd", "corelight", "elastic", "maymobility", "mongodb", "roku", "sigmacomputing", "spacex"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Linux administration", "definition": "Installing, configuring and maintaining Linux systems.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Linux internals", "definition": "How the Linux kernel manages processes, memory and I/O.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Linux networking", "definition": "Network stack, routing and firewall configuration on Linux.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Liquid Biopsy", "definition": "Non-invasive diagnostic test analyzing circulating biomarkers in blood.", "companies": ["billiontoone"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "LiteLLM", "definition": "Library and proxy that calls many LLM providers through one API.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Live Event Monitoring", "definition": "Fastly's practice of proactively monitoring high-profile streaming/traffic events in real time.", "companies": ["fastly"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Live Tail", "definition": "Datadog feature for viewing incoming logs in real time.", "companies": ["datadog"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "llama.cpp", "definition": "An open-source C/C++ library for running LLaMA-family large language models efficiently on commodity hardware.", "companies": ["cloudflare", "singlestore"], "disputed": true, "explanation": "", "analogy": ""}
@@ -1479,6 +1607,7 @@
 {"term": "MC-LAG", "definition": "Multi-Chassis Link Aggregation Group, a networking technique that lets a device form a link aggregation across two physically separate switches for redundancy.", "companies": ["robinhood"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "MCP", "definition": "Model Context Protocol, a standard for exposing data and tools to AI models/agents.", "companies": ["hightouch", "samsara", "synack"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "MCP (Model Context Protocol)", "definition": "An open protocol that lets AI models connect to and interact with external tools and data sources in a standardized way.", "companies": ["pinterest"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "MCP server", "definition": "Service that exposes tools or data to AI clients through the Model Context Protocol.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "MDF (Market Development Funds)", "definition": "Co-op funds a vendor provides to channel partners to subsidize joint marketing activities.", "companies": ["singlestore"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "MDM", "definition": "Mobile Device Management; endpoint provisioning/compliance platform category.", "companies": ["cribl"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Measurement infrastructure", "definition": "The technical systems (pipelines, APIs, reporting) that collect, process, and surface advertising measurement data.", "companies": ["pinterest"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1496,6 +1625,8 @@
 {"term": "Medication Management", "definition": "Monitoring and adjusting medications for optimal therapeutic effect.", "companies": ["cerebral", "waltzhealth"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Medication Therapy", "definition": "Treatment approach using medications to manage health conditions.", "companies": ["waltzhealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Meditech", "definition": "Healthcare information system software for managing medical records and operations.", "companies": ["moxehealth"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Memcached", "definition": "In-memory key-value cache.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Memorystore", "definition": "Google's managed Redis and Memcached service.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Mental Health", "definition": "Medical and psychological treatment of emotional, behavioral, and psychiatric conditions.", "companies": ["onemedical"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Mental Health Care", "definition": "Medical and psychological treatment of emotional and mental conditions.", "companies": ["cerebral"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Mental Health Disorder", "definition": "Psychological condition meeting diagnostic criteria for mental illness.", "companies": ["cerebral"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1543,6 +1674,7 @@
 {"term": "Mobile design", "definition": "Designing a product's interface and experience specifically for mobile-device form factors.", "companies": ["pinterest"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Mobile Device Management (MDM)", "definition": "Software used by organizations to manage, secure, and enforce policies on employee mobile and desktop devices.", "companies": ["robinhood"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "model compilation", "definition": "The process of converting a trained model into an optimized, hardware-specific executable form for faster inference.", "companies": ["cloudflare"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Model Context Protocol", "definition": "Open protocol that connects AI models to tools and data sources.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Model Context Protocol (MCP)", "definition": "An open protocol standardizing how AI applications connect to and invoke external tools, data sources, and services.", "companies": ["singlestore"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "model evasion", "definition": "Adversarial techniques designed to cause a machine learning model to misclassify or behave incorrectly.", "companies": ["twilio"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Model Lab", "definition": "Datadog research-oriented tooling for evaluating and monitoring AI model performance.", "companies": ["datadog"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1575,6 +1707,7 @@
 {"term": "MQL", "definition": "Marketing Qualified Lead; a pipeline-stage metric in demand generation.", "companies": ["cockroachlabs"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "MRP", "definition": "Material Requirements Planning; inventory management system.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "MSA", "definition": "Measurement Systems Analysis; statistical evaluation of measurement quality.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "MSK", "definition": "AWS managed Apache Kafka service.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "MSP", "definition": "Managed Service Provider; a partner type in the observability platform's channel/partner ecosystem.", "companies": ["huntress", "newrelic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "MSSP", "definition": "Managed Security Service Provider.", "companies": ["cribl"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "mTLS", "definition": "Mutual TLS -- a protocol where both client and server present certificates to authenticate each other during a connection.", "companies": ["okta"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1608,13 +1741,16 @@
 {"term": "NAT traversal", "definition": "Networking technique enabling direct connectivity between devices behind NAT.", "companies": ["tailscale"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "National Association of Specialty Pharmacy (NASP)", "definition": "Professional organization for specialty pharmacy practitioners and organizations.", "companies": ["waltzhealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Native mobile app development", "definition": "Building applications directly for a specific mobile platform (as opposed to cross-platform/web) using that platform's own SDKs and language.", "companies": ["duolingo"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "NATS", "definition": "Lightweight messaging system for cloud-native services.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Natural Language Processing", "definition": "Machine learning field for processing and understanding text.", "companies": ["sigmacomputing"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Natural language understanding (NLU)", "definition": "A machine learning discipline for interpreting user language; core to Roku's Voice/Entertainment Assistant product this ML role builds.", "companies": ["roku"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "NCCER", "definition": "National Commission for Certification of Crane Operators and other trades.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "NCCL", "definition": "NVIDIA library for GPU-to-GPU collective communication.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "NCME", "definition": "National Council on Measurement in Education, a professional association for educational and psychological measurement.", "companies": ["coursera"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "NDE", "definition": "Non-Destructive Examination; inspection methods not damaging materials.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Negotiation", "definition": "The practice of reaching mutually acceptable agreements with clients, partners, or vendors, such as around pricing or contract terms.", "companies": ["pinterest", "samsara"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Neo4j", "definition": "A native graph database platform used for storing and querying highly connected data.", "companies": ["recordedfuture"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Neptune", "definition": "AWS managed graph database service.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Net Revenue Retention", "definition": "", "companies": ["huntress"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Net Revenue Retention (NRR)", "definition": "A metric measuring revenue retained from existing customers over a period, including expansion and contraction, excluding new customers.", "companies": ["brex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "NetFlow", "definition": "A network protocol for collecting and monitoring traffic flow data (source/destination, volume, timing) as it traverses a network device.", "companies": ["recordedfuture"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1625,6 +1761,7 @@
 {"term": "Network+", "definition": "CompTIA Network+ -- an entry-level certification covering networking concepts, infrastructure, and troubleshooting.", "companies": ["abnormalsecurity"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Networking", "definition": "The design, implementation, and management of computer networks.", "companies": ["formic", "huntress", "samsara"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Neural networks", "definition": "A machine learning modeling technique listed among the ML fundamentals expected for Roku's ML engineering role.", "companies": ["maymobility", "roku"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "New Relic", "definition": "SaaS observability platform for APM, infrastructure and logs.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "NewRelic", "definition": "A commercial application performance monitoring and observability platform.", "companies": ["huntress"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Next-gen firewalls", "definition": "Advanced firewall technology used by Roku's network engineering team for network security and threat prevention.", "companies": ["roku"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Next-Gen WAF", "definition": "Web Application Firewall product line, part of Fastly's security suite.", "companies": ["fastly"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1662,6 +1799,7 @@
 {"term": "NX", "definition": "An open-source build system and monorepo tooling framework for managing multiple JavaScript/TypeScript projects in a single repository.", "explanation": "", "analogy": "", "companies": ["clickhouse", "degreed"], "disputed": true}
 {"term": "NYDFS", "definition": "The New York State Department of Financial Services, which regulates financial institutions including virtual currency businesses operating in New York.", "companies": ["gemini"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "OAuth", "definition": "An open standard authorization protocol that lets applications obtain limited access to a user's resources without exposing credentials.", "companies": ["okta"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "OAuth 2.0", "definition": "Authorization framework for delegated access tokens.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "OAuth2", "definition": "An open standard authorization protocol that lets applications obtain limited access to a user's resources without exposing credentials.", "companies": ["okta"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Obesity research", "definition": "Clinical research focused on obesity and metabolic disorders.", "companies": ["iterativehealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Object detection", "definition": "Computer vision task of locating and classifying objects in images or video.", "companies": ["maymobility"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1682,6 +1820,9 @@
 {"term": "Okta", "definition": "An identity and access management platform used for authentication and single sign-on.", "companies": ["toast"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Okta Workflows", "definition": "Okta's no-code automation/orchestration tool for identity workflows.", "companies": ["cribl"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "OLAP", "definition": "Online Analytical Processing; the database category ClickHouse and its Solutions Architects specialize in.", "companies": ["clickhouse"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "OLAP databases", "definition": "Analytical databases optimized for aggregating large datasets.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Ollama", "definition": "Tool for running open-weight AI models locally.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "OLTP", "definition": "Online transaction processing: many small, concurrent reads and writes.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Omni", "definition": "BI/analytics platform used for attribution and performance reporting.", "companies": ["cribl", "hightouch", "mercury"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Omnichannel", "definition": "Integrated sales and marketing approach across multiple channels and touchpoints.", "companies": ["komodohealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "On-call", "definition": "Rotational responsibility for responding to production incidents and alerts outside normal hours.", "companies": ["gitlab", "grafanalabs"], "disputed": true, "explanation": "", "analogy": ""}
@@ -1694,7 +1835,11 @@
 {"term": "Open-Source Technology", "definition": "Software whose source code is publicly available and modifiable, referenced as familiarity a candidate should have.", "companies": ["mongodb"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "OpenAI", "definition": "An AI research and product company providing large language models such as the GPT family.", "companies": ["abnormalsecurity", "okta", "stockx"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "OpenAPI", "definition": "Specification standard for describing REST APIs.", "companies": ["corelight", "marqeta", "postman"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "OpenID Connect", "definition": "Identity layer on OAuth 2.0 for user authentication.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "OpenLLMetry", "definition": "OpenTelemetry-based instrumentation for LLM applications.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "OpenRouter", "definition": "Service that routes requests to many AI models through one API.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "OpenSearch", "definition": "An open-source search and analytics engine forked from Elasticsearch, used for full-text search and log analytics.", "companies": ["asana"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "OpenSearch Serverless", "definition": "AWS serverless option for running OpenSearch collections.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "OpenTelemetry", "definition": "An open-source observability framework for generating, collecting, and exporting telemetry data (traces, metrics, logs) from software.", "companies": ["duolingo", "gitlab", "grafanalabs", "recordedfuture"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "OpenTelemetry Collector", "definition": "A vendor-agnostic component of the OpenTelemetry project that receives, processes, and exports telemetry data (traces, metrics, logs).", "companies": ["singlestore"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "OpenTofu", "definition": "An open-source, community-driven fork of Terraform for infrastructure as code.", "companies": ["airtable"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1703,6 +1848,7 @@
 {"term": "Operational excellence", "definition": "A management discipline focused on consistently executing processes efficiently and reliably across a team or system.", "companies": ["duolingo"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Operations Cloud", "definition": "PagerDuty's AI-powered platform for incident response, automation, and digital operations management.", "companies": ["pagerduty"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Operations Research", "definition": "A discipline applying analytical/mathematical methods to help make better operational and business decisions.", "explanation": "", "analogy": "", "companies": ["cloudflare"], "disputed": false}
+{"term": "Opsgenie", "definition": "Atlassian incident alerting and on-call management tool.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Optimal Blue", "definition": "A mortgage pricing, eligibility, and lock management platform used by lenders.", "companies": ["sofi"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Optimization workflows", "definition": "The processes and tooling advertisers use to iteratively improve campaign performance based on results.", "companies": ["pinterest"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Options Clearing Corporation (OCC)", "definition": "The central clearinghouse for U.S. listed options contracts, guaranteeing trade settlement.", "companies": ["alpaca"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1720,6 +1866,7 @@
 {"term": "Organ Health", "definition": "Medical focus on monitoring and maintaining the health of specific organs.", "companies": ["natera"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Organic Traffic", "definition": "Visitors reaching a website through unpaid search results or other non-paid channels.", "companies": ["datacamp"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Organizational Design", "definition": "The practice of structuring teams, roles, and reporting lines to support business strategy.", "companies": ["gitlab"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "ORM", "definition": "Object-relational mapper, which maps code objects to database tables.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "OSCP", "definition": "Offensive Security Certified Professional; a penetration testing certification.", "companies": ["vercel"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "OSHA", "definition": "Occupational Safety and Health Administration; federal agency overseeing workplace safety standards.", "companies": ["misfitsmarket"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "OSI model", "definition": "The seven-layer conceptual model used to describe how network communication functions are structured.", "companies": ["cloudflare"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1748,6 +1895,7 @@
 {"term": "PAM", "definition": "Privileged Access Management; a security category covering session recording, just-in-time access, and protocol-aware controls.", "companies": ["tailscale"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Pandas", "definition": "A Python library for data manipulation and analysis, built around the DataFrame data structure.", "companies": ["coursera", "flatironhealth", "maymobility", "singlestore"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Panther", "definition": "Cloud-native SIEM platform.", "companies": ["cribl", "gusto"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Parameter-Efficient Fine-Tuning", "definition": "Methods that adapt large models by training a small number of parameters.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "parameterized rollouts", "definition": "Deployment methodology for gradually rolling out changes across Tempo cells with configurable parameters.", "companies": ["grafanalabs"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Pardot", "definition": "Salesforce's B2B marketing automation platform used for email campaigns and lead scoring.", "companies": ["recordedfuture"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Parquet", "definition": "Columnar on-disk storage format optimized for analytical query workloads.", "companies": ["grafanalabs"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1795,6 +1943,8 @@
 {"term": "Perpetual Swap", "definition": "A derivative contract similar to a futures contract but with no expiry date, commonly used in crypto trading.", "companies": ["robinhood"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Persona", "definition": "An identity verification platform used for onboarding and KYC document/identity checks.", "companies": ["bitgo"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Personal Protective Equipment (PPE)", "definition": "Safety equipment worn to protect against exposure to biological hazards.", "companies": ["natera"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "pgBackRest", "definition": "PostgreSQL backup and restore tool.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "PgBouncer", "definition": "Lightweight PostgreSQL connection pooler.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Pharma advertising", "definition": "Advertising strategy and execution tailored to pharmaceutical-industry clients, a specialized advertiser vertical.", "companies": ["pinterest"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Pharmaceutical", "definition": "Industry sector focused on development, manufacture, and sale of pharmaceutical products.", "companies": ["komodohealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Pharmaceutical Supply Chain", "definition": "Network of organizations producing, distributing, and dispensing medications.", "companies": ["waltzhealth"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1816,6 +1966,7 @@
 {"term": "Physician Assistant (PA)", "definition": "Healthcare provider trained to provide medical care under physician supervision.", "companies": ["onemedical"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Pick-and-place", "definition": "Automated process of selecting and repositioning items in manufacturing workflows.", "companies": ["formic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Pigment", "definition": "A cloud-based business planning platform used for financial modeling, forecasting, and scenario planning.", "companies": ["chime"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Pinecone", "definition": "Managed vector database for similarity search.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Pingora", "definition": "An open-source Rust-based framework for building fast, reliable network proxies and API gateways.", "companies": ["airtable"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Pinot", "definition": "Apache Pinot; a real-time distributed OLAP datastore built for low-latency analytical queries.", "companies": ["clickhouse"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Pinterest boards", "definition": "A core Pinterest product feature that lets users collect, organize, and visualize saved ideas (Pins) around a theme.", "companies": ["pinterest"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1852,7 +2003,9 @@
 {"term": "Post-incident reviews", "definition": "Structured reviews conducted after an incident to identify root causes and drive process improvements.", "companies": ["gitlab"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Post-order quality", "definition": "Engineering and operational work focused on what happens after an order is placed, such as accuracy, issue resolution, and customer satisfaction.", "companies": ["instacart"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Postanalytical Phase", "definition": "Laboratory stage involving result reporting and result interpretation.", "companies": ["natera"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "PostGIS", "definition": "PostgreSQL extension for geospatial data.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Postgres", "definition": "An open-source, object-relational database known for standards compliance and extensibility.", "companies": ["abnormalsecurity", "garnerhealth", "huntress", "recordedfuture"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Postgres operators", "definition": "Kubernetes operators that manage PostgreSQL clusters.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "PostgreSQL", "definition": "An open-source, advanced relational database management system.", "companies": ["aurorainnovation", "billiontoone", "cloudflare", "collectivehealth", "omadahealth", "samsara", "sigmacomputing"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Postmortem", "definition": "A written analysis conducted after an incident to document root cause, impact, and follow-up actions to prevent recurrence.", "companies": ["gusto"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "POV", "definition": "Proof of Value; a technical validation engagement run to secure revenue from large customers.", "companies": ["abnormalsecurity", "launchdarkly"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1885,6 +2038,7 @@
 {"term": "Prime Brokerage", "definition": "A bundled suite of services (financing, custody, trading) that investment banks or exchanges offer to institutional clients like hedge funds.", "companies": ["coinbase"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "PRINCE2", "definition": "PRojects IN Controlled Environments -- a structured project management methodology and certification.", "companies": ["cloudflare"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Prior Authorization", "definition": "Insurance approval process required before dispensing specific medications.", "companies": ["waltzhealth"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Prisma", "definition": "TypeScript and Node ORM and database toolkit.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Privacy Operations", "definition": "Organizational functions and processes for implementing and managing data privacy compliance programs.", "companies": ["datagrail"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Privacy-preserving measurement", "definition": "Advertising measurement approaches designed to produce useful reporting while limiting exposure of individual-level user data.", "companies": ["pinterest"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Private API Network", "definition": "Postman enterprise feature for securely sharing internal APIs within an organization.", "companies": ["postman"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1939,6 +2093,7 @@
 {"term": "PTaaS", "definition": "Penetration Testing as a Service platform delivery model.", "companies": ["synack"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "pub/sub", "definition": "Publish/subscribe -- a messaging pattern where senders (publishers) broadcast messages to channels that receivers (subscribers) listen to, without direct coupling.", "companies": ["recordedfuture"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Public cloud providers", "definition": "Third-party infrastructure platforms (e.g. AWS, GCP, Azure) used to build and host applications at scale.", "companies": ["duolingo"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Pulsar", "definition": "Apache distributed messaging and streaming platform.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Pulumi", "definition": "An infrastructure-as-code platform that lets engineers define cloud infrastructure using general-purpose programming languages.", "companies": ["airtable"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Puppet", "definition": "A configuration management and infrastructure automation tool.", "companies": ["gitlab"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Purchase flow", "definition": "The sequence of screens and steps a user goes through to complete a purchase, such as subscribing.", "companies": ["duolingo"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1967,6 +2122,7 @@
 {"term": "Quantization", "definition": "Technique to reduce model size and improve inference speed by lowering numerical precision.", "companies": ["cloudflare", "maymobility"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Quarterly Business Review", "definition": "A recurring meeting, typically held every quarter, reviewing performance, account health, and plans between a vendor and customer.", "companies": ["simpplr"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Queues", "definition": "Cloudflare Queues -- a managed message queue service for asynchronous processing on Cloudflare's platform.", "companies": ["cloudflare"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "QUIC", "definition": "Transport protocol over UDP that underlies HTTP/3.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "QuickBooks", "definition": "Accounting software for small and mid-sized businesses.", "companies": [], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Quicksight", "definition": "AWS's BI/dashboarding tool for building visualizations and reports.", "companies": ["cockroachlabs"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "quota assignment", "definition": "The process of setting sales revenue targets (quotas) for individual reps or territories.", "companies": ["elastic"], "disputed": false, "explanation": "", "analogy": ""}
@@ -1988,6 +2144,7 @@
 {"term": "Rapid prototyping", "definition": "Process of quickly building physical models or prototypes.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Rate Limiting", "definition": "A control that restricts the number of requests a client can make in a given time window, used to prevent abuse.", "companies": ["cloudflare"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Ray", "definition": "Distributed computing framework for parallel processing and scalable machine learning.", "companies": ["freenome"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Ray Serve", "definition": "Scalable model serving library built on Ray.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "RBI", "definition": "Remote Browser Isolation -- a security technique that executes web browsing sessions in an isolated environment away from the endpoint.", "companies": ["cloudflare"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "RCA", "definition": "Root Cause Analysis -- a structured method for identifying the underlying cause of an incident or problem.", "companies": ["diligentrobotics", "formic", "mongodb", "spacex", "twilio"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "RDBMS", "definition": "Relational Database Management System.", "companies": ["cockroachlabs", "synack"], "disputed": true, "explanation": "", "analogy": ""}
@@ -2012,11 +2169,14 @@
 {"term": "Red Team", "definition": "A security function that simulates real-world adversary attacks to test an organization's detection and response capabilities.", "companies": ["robinhood"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "red teaming", "definition": "Offensive security practice simulating real attacks to test defenses.", "companies": ["clickhouse"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Redis", "definition": "In-memory data store used as an example observability-stack data store.", "companies": ["abnormalsecurity", "newrelic"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Redis Cloud", "definition": "Managed Redis service from Redis Inc.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Redis Streams", "definition": "Redis append-only log data type for messaging.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Redpanda", "definition": "A Kafka-compatible streaming data platform designed for lower latency and simpler operations than Apache Kafka.", "companies": ["alpaca"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Redshift", "definition": "Amazon's cloud-based columnar data warehouse product.", "companies": ["clickhouse"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Redux", "definition": "A predictable state management library commonly used with React applications.", "companies": ["abnormalsecurity", "mercury"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Refinitiv", "definition": "A financial data and risk intelligence provider offering tools for KYC screening, sanctions, and market data.", "companies": ["carta"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Reg Z", "definition": "A U.S. Federal Reserve regulation implementing the Truth in Lending Act, governing consumer credit disclosures.", "companies": ["brex"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Rego", "definition": "Policy language used by Open Policy Agent.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Regression", "definition": "A machine learning modeling technique listed among the ML fundamentals expected for Roku's ML engineering role.", "companies": ["roku"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Regression discontinuity", "definition": "Causal inference design that exploits a threshold-based assignment rule to estimate treatment effects near the cutoff.", "companies": ["coursera"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Regulation DD", "definition": "A Federal Reserve regulation implementing the Truth in Savings Act, requiring disclosure of account terms and fees.", "companies": ["chime"], "disputed": false, "explanation": "", "analogy": ""}
@@ -2050,6 +2210,7 @@
 {"term": "REST API/SDK Generation", "definition": "Tooling that auto-generates client SDKs and REST API bindings from a service's interface definitions.", "companies": ["singlestore"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "REST APIs", "definition": "Web APIs following REST architectural conventions for system integration.", "companies": ["aurorainnovation", "corelight", "toast"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "RESTful API", "definition": "An application programming interface that follows REST (Representational State Transfer) architectural principles for web services.", "companies": ["newsela"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Restic", "definition": "Open-source backup tool with deduplication and encryption.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Retail advertising", "definition": "Advertising strategy and execution tailored to retail-industry clients.", "companies": ["pinterest"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Retool", "definition": "A low-code platform for building internal tools and admin dashboards quickly.", "companies": ["brex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Retrieval augmented generation (RAG)", "definition": "AI technique that combines a language model with retrieval from an external knowledge source to ground its outputs in relevant data.", "companies": ["stockx"], "disputed": false, "explanation": "", "analogy": ""}
@@ -2080,11 +2241,14 @@
 {"term": "Robotaxi", "definition": "Autonomous taxi service operated without human drivers.", "companies": ["motional"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Robotics", "definition": "Design, construction, and operation of robotic systems and machines.", "companies": ["aurorainnovation"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Robotics-as-a-Service", "definition": "Service delivery model providing robotic systems and support without requiring customer capital investment.", "companies": ["formic"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "RocksDB", "definition": "Embedded key-value storage engine based on a log-structured merge tree.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "ROCm", "definition": "AMD's open software platform for GPU computing.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Role-based access control", "definition": "Access control method restricting permissions based on user roles.", "companies": ["aurorainnovation"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Roll Rate", "definition": "A credit risk metric measuring the rate at which loans migrate from one delinquency stage to a more severe one.", "companies": ["sofi"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Room", "definition": "Android's persistence library providing an abstraction layer over SQLite for local database access.", "companies": ["robinhood"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Root cause", "definition": "Fundamental reason underlying a problem or failure.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Root Cause Analysis", "definition": "A structured method for identifying the underlying cause of an incident or problem.", "companies": ["formic", "gitlab", "mongodb", "recordedfuture"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Rootly", "definition": "Incident management platform for chat-based response workflows.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "ROS", "definition": "Robot Operating System; flexible framework for writing robot software.", "companies": ["diligentrobotics"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "ROS navigation stacks", "definition": "Collection of ROS packages providing navigation capabilities for mobile robots.", "companies": ["diligentrobotics"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Routing", "definition": "The core networking discipline of directing traffic between networks; required in-depth knowledge for this Roku network engineering role.", "companies": ["roku"], "disputed": false, "explanation": "", "analogy": ""}
@@ -2184,6 +2348,7 @@
 {"term": "Seasonality analysis", "definition": "Analyzing recurring, calendar-driven patterns in a metric (such as year-over-year or month-over-month cycles) to inform forecasts.", "companies": ["pinterest"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "SEC filing", "definition": "Regulatory financial reporting requirement/deadline for public-company compliance.", "companies": ["cockroachlabs"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Second Line of Defense (2LOD)", "definition": "In a risk governance model, the independent risk and compliance functions that oversee and challenge the first line's risk management.", "companies": ["robinhood"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Secret Manager", "definition": "Managed service for storing and rotating secrets.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Secret Scanner", "definition": "Postman feature that detects exposed secrets/credentials in collections and workspaces.", "companies": ["postman"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "secret scanning", "definition": "Automated scanning of code and configuration for accidentally committed credentials, API keys, or other secrets.", "companies": ["recordedfuture"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Secrets Management", "definition": "Practices and tooling for securely storing and accessing credentials, API keys, and other sensitive values.", "explanation": "", "analogy": "", "companies": ["toast"], "disputed": false}
@@ -2222,6 +2387,8 @@
 {"term": "Server-Side Ad Insertion (SSAI)", "definition": "A technique for inserting ads into a video stream on the server side rather than the client; desirable understanding for this Roku Technical Operations role supporting ad delivery.", "companies": ["roku"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "serverless compute", "definition": "A cloud execution model where code runs on-demand without the developer managing underlying servers.", "companies": ["cloudflare"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Service Cloud", "definition": "A Salesforce product for managing customer service and support case workflows.", "companies": ["abnormalsecurity"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Service Level Agreements", "definition": "Contractual commitments on service performance, often with penalties.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "Service Level Objectives", "definition": "Target levels of a service metric, such as availability, that a team commits to.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "ServiceNow", "definition": "A cloud platform for IT service management, workflow automation, and case/ticket management.", "companies": ["gitlab", "gusto", "recordedfuture", "toast", "twilio"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "ServiceNow Certified System Administrator", "definition": "CSA, a foundational ServiceNow platform administration certification.", "companies": ["toast"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Session Hijacking", "definition": "An attack where a valid session token or cookie is stolen and reused to impersonate an authenticated user.", "companies": ["okta"], "disputed": false, "explanation": "", "analogy": ""}
@@ -2253,6 +2420,7 @@
 {"term": "SIPRNet", "definition": "Secret Internet Protocol Router Network -- a classified US government network used to transmit Secret-level information.", "companies": ["okta"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "SIS", "definition": "Common abbreviation for Student Information System -- software platforms schools use to manage student records, enrollment, grades, and administrative data.", "explanation": "", "analogy": "", "companies": ["clever"], "disputed": false}
 {"term": "Site Initiation Visit", "definition": "Meeting before trial start to ensure site readiness and staff training.", "companies": ["iterativehealth"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Site Reliability Engineer", "definition": "Engineer who applies software practices to keep systems reliable.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Site Reliability Engineering", "definition": "A discipline that applies software engineering practices to operations, reliability, and scalability of production systems.", "companies": ["gitlab"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Site Selection Visit", "definition": "Assessment visit to evaluate clinical research site capabilities and feasibility.", "companies": ["iterativehealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "SIV", "definition": "Site Initiation Visit conducted at clinical research sites.", "companies": ["iterativehealth"], "disputed": false, "explanation": "", "analogy": ""}
@@ -2262,8 +2430,11 @@
 {"term": "Skyward", "definition": "A K-12 student information system (SIS) and administrative software suite used by school districts.", "companies": ["newsela"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "SLA", "definition": "Service Level Agreement -- a commitment defining the expected level of service (e.g. uptime, response time) between a provider and its customers.", "companies": ["abnormalsecurity", "recordedfuture", "roku", "twilio"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Slack", "definition": "A workplace messaging and collaboration platform used for team communication.", "companies": ["cerebral", "hightouch", "onemedical", "twilio"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "SLI", "definition": "Service Level Indicator, a measured metric that reflects service quality.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "SLO", "definition": "Service Level Objective -- a specific, measurable target (e.g. 99.9% uptime) that defines the level of service a system aims to provide.", "companies": ["recordedfuture"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "SLO (Service Level Objective)", "definition": "A target level of reliability or performance a service aims to meet, used to define acceptable operating thresholds.", "companies": ["singlestore"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "SLO frameworks", "definition": "Methods for defining, tracking and enforcing service level objectives.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "SLO monitoring", "definition": "Tracking service performance against its service level objectives.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "SLOs", "definition": "Service Level Objectives (e.g. P99 write latency, incident recurrence, TCO per ingested GB) the team is held to.", "companies": ["grafanalabs"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "SLOs/SLIs", "definition": "Service Level Objectives and Service Level Indicators used to define and measure reliability targets.", "companies": ["gitlab"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Smartsheet", "definition": "A cloud-based work management and project tracking platform.", "companies": ["abnormalsecurity", "mongodb"], "disputed": false, "explanation": "", "analogy": ""}
@@ -2286,6 +2457,7 @@
 {"term": "SOC 1", "definition": "A compliance audit standard evaluating a service organization's internal controls relevant to a customer's financial reporting.", "companies": ["okta"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "SOC 2", "definition": "A security compliance audit standard evaluating a service organization's controls around data security, availability, and confidentiality.", "companies": ["brex", "iterativehealth", "okta"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "SOC-2", "definition": "A security/compliance audit framework and report evaluating a service organization's controls (Service Organization Control 2).", "companies": ["cloudflare"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "SOC2", "definition": "Audit framework for controls over security, availability and confidentiality.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Social advertising", "definition": "Advertising delivered on social media platforms, targeted using platform-specific audience and behavioral data.", "companies": ["pinterest"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Socially-aware navigation", "definition": "Navigation that considers and responds to human presence and social norms.", "companies": ["diligentrobotics"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Socure", "definition": "An identity verification and fraud prevention platform using data science and machine learning.", "companies": ["marqeta"], "disputed": false, "explanation": "", "analogy": ""}
@@ -2335,14 +2507,19 @@
 {"term": "Splunk SPL", "definition": "Splunk's Search Processing Language for querying log data.", "companies": ["cribl"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Spring Boot", "definition": "Java framework for building production-grade backend services with minimal configuration.", "companies": ["collectivehealth", "newrelic"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Spring Cloud", "definition": "Framework for building cloud-native applications on the Spring Boot platform.", "companies": ["collectivehealth"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Spring Framework", "definition": "Java framework for building enterprise applications.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "SPRT", "definition": "Sequential Probability Ratio Test; a sequential-testing method used in A/B experimentation.", "companies": ["amplitude"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "SPSS", "definition": "A statistical analysis software package widely used for data analysis in research and social sciences.", "companies": [], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "SQE (Solicitors Qualifying Examination)", "definition": "The centralized assessment route for qualifying as a solicitor in England and Wales.", "companies": ["carta"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "SQL", "definition": "Structured Query Language -- the standard language for querying and managing data in relational databases.", "companies": ["abnormalsecurity", "cbinsights", "cloudflare", "corelight", "coursera", "datacamp", "dataiku", "flatironhealth", "garnerhealth", "gitlab", "goatgroup", "huntress", "khanacademy", "maymobility", "mongodb", "motional", "pinterest", "recordedfuture", "samsara", "toast"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "SQL Query Optimization", "definition": "The practice of tuning SQL queries, indexes, and execution plans to improve database performance.", "companies": ["singlestore"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "SQL Server", "definition": "Microsoft's relational database management system.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "SQLite", "definition": "Embedded, file-based relational database engine.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "SQLMesh", "definition": "SQL-based data transformation tool ClickHouse builds a connector integration for.", "companies": ["clickhouse"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "SQS", "definition": "Amazon Simple Queue Service, a managed message queuing service.", "companies": ["samsara"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "SRE (Site Reliability Engineering)", "definition": "Discipline combining software engineering and operations to build reliable systems.", "companies": ["wizinc"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "SSL/TLS", "definition": "Protocols for encrypting network traffic.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
+{"term": "SSO", "definition": "Single sign-on: one login across multiple applications.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "SSP", "definition": "Supply-Side Platform, technology publishers use to sell ad inventory programmatically; mentioned as a knowledge area for Roku's Client Services manager role.", "companies": ["roku"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "SSV", "definition": "Selection Site Visit assessing sites for clinical trial participation.", "companies": ["iterativehealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Stablecoins", "definition": "Cryptocurrencies designed to maintain a stable value by pegging to a reserve asset such as a fiat currency.", "companies": ["cbinsights"], "disputed": false, "explanation": "", "analogy": ""}
@@ -2366,6 +2543,7 @@
 {"term": "storage tiering", "definition": "Storing data across different cost/performance storage tiers based on access patterns.", "companies": ["clickhouse"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Storybook", "definition": "An open-source tool for building, documenting, and testing UI components in isolation.", "companies": ["airtable"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Storytelling", "definition": "Structuring and delivering a narrative to make a message more compelling and memorable, used here in a sales/training context.", "companies": ["samsara"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Strands Agents", "definition": "Open-source SDK for building AI agents.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Strategic planning", "definition": "Long-term planning process defining organizational direction and objectives.", "companies": ["iterativehealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Strategic problem-solving", "definition": "Structured approach to identifying and implementing solutions for complex business challenges.", "companies": ["garnerhealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Strategic Sourcing", "definition": "The process of managing an organization's supply base and vendor relationships to reduce cost and risk.", "companies": ["samsara"], "disputed": false, "explanation": "", "analogy": ""}
@@ -2389,6 +2567,7 @@
 {"term": "Succession Planning", "definition": "Identifying and developing employees to fill future key leadership roles.", "companies": ["gitlab"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Sukuk", "definition": "An Islamic financial certificate structured to comply with Sharia law, functioning similarly to a bond.", "companies": ["alpaca"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Sumble", "definition": "A sales intelligence tool used to research target accounts and prospects for outbound sales prospecting.", "companies": ["elastic"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Sumo Logic", "definition": "Cloud log management and analytics platform.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Superset", "definition": "An open-source business-intelligence and data-visualization platform used for building dashboards.", "companies": ["pinterest"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Supervised Fine-Tuning", "definition": "Process of adapting pre-trained models to specific tasks using labeled training data.", "companies": ["collectivehealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Supply chain", "definition": "Network of suppliers, manufacturers, and distributors for products.", "companies": ["goatgroup", "spacex"], "disputed": true, "explanation": "", "analogy": ""}
@@ -2499,10 +2678,12 @@
 {"term": "Tool design", "definition": "Design of manufacturing tools, dies, and fixtures.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Tooling", "definition": "Custom tools and fixtures designed for specific manufacturing processes.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Topological mapping", "definition": "Creating graph-based representations of environments showing connectivity and relationships.", "companies": ["maymobility"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "TorchServe", "definition": "PyTorch tool for serving trained models.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Total Cost of Ownership (TCO)", "definition": "A financial estimate that accounts for the full direct and indirect costs of a purchase over its lifetime.", "companies": ["samsara"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Total Rewards", "definition": "The complete compensation, benefits, and equity package offered to employees.", "companies": ["gitlab"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "TPA", "definition": "Third-Party Administrator managing benefits or healthcare programs.", "companies": ["garnerhealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "TPM", "definition": "Technical Program Manager -- a program management role focused on coordinating complex, engineering-heavy initiatives.", "companies": ["abnormalsecurity", "twilio"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "TPUs", "definition": "Google's custom accelerator chips for machine learning.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "trace aggregation", "definition": "Combining and rolling up distributed tracing data, a named Tempo roadmap area.", "companies": ["grafanalabs"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Traceability", "definition": "Ability to track materials and components through manufacturing process.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "TraceQL", "definition": "Query language for searching and generating metrics from distributed traces in Grafana Tempo.", "companies": ["grafanalabs"], "disputed": false, "explanation": "", "analogy": ""}
@@ -2531,6 +2712,7 @@
 {"term": "Trino", "definition": "An open-source distributed SQL query engine (formerly PrestoSQL) for running fast analytic queries across large datasets.", "companies": ["alpaca"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Trintech Cadency", "definition": "A financial close and account reconciliation software platform used by finance and accounting teams.", "companies": ["sofi"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Triton", "definition": "NVIDIA's inference serving software used to deploy and scale AI models in production.", "companies": ["cloudflare", "freenome"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Triton Inference Server", "definition": "NVIDIA server for serving AI models at scale.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Troubleshooting", "definition": "Process of identifying and resolving equipment or process problems.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Trulioo", "definition": "An identity verification platform used for global KYC and KYB checks.", "companies": ["marqeta"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "TS/SCI", "definition": "Top Secret/Sensitive Compartmented Information, a U.S. government security clearance level.", "companies": ["pagerduty"], "disputed": false, "explanation": "", "analogy": ""}
@@ -2556,6 +2738,7 @@
 {"term": "Underwriting", "definition": "Process of evaluating and assessing risk to determine insurance policy terms and pricing.", "companies": ["coalition", "formic"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Unit economics", "definition": "Per-unit costs and revenues in a business model.", "companies": ["motional"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Unit Testing", "definition": "Software testing of individual code components for correctness.", "companies": ["duolingo", "moxehealth", "spacex", "synack"], "disputed": true, "explanation": "", "analogy": ""}
+{"term": "Unity Catalog", "definition": "Databricks governance layer for data and AI assets.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Universal Robots", "definition": "Danish manufacturer of collaborative robotic arms.", "companies": ["formic"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Unix", "definition": "A family of multitasking, multiuser operating systems that underpins Linux, macOS, and many server environments.", "companies": ["corelight", "recordedfuture"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Uplift modeling", "definition": "Predictive modeling technique that estimates the causal effect of a treatment on an individual's behavior.", "companies": ["coursera"], "disputed": false, "explanation": "", "analogy": ""}
@@ -2575,6 +2758,7 @@
 {"term": "ValKey", "definition": "An open-source, community-maintained fork of Redis providing an in-memory data store and cache.", "companies": ["gusto"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Value Stream Reporting", "definition": "Reporting on how work flows through a software delivery pipeline to identify bottlenecks and improve throughput.", "companies": ["gitlab"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Value-Based Selling", "definition": "A sales approach that focuses on communicating the business value/ROI of a solution rather than its features.", "companies": ["samsara"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Vanta", "definition": "Compliance automation platform for security audits.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Vantage", "definition": "Dedicated FinOps platform for tracking and analyzing cloud infrastructure costs.", "companies": ["cockroachlabs"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Vapor pressure", "definition": "Pressure exerted by vapor in equilibrium with liquid or solid.", "companies": ["spacex"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "VAR", "definition": "Value-Added Reseller; a partner type that resells and layers services on top of a vendor's product.", "companies": ["huntress", "newrelic"], "disputed": false, "explanation": "", "analogy": ""}
@@ -2626,10 +2810,12 @@
 {"term": "Vulnerability Research", "definition": "Security research discipline focused on discovering, analyzing, and documenting software vulnerabilities.", "companies": ["bugcrowd"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "W-shaped attribution", "definition": "A multi-touch marketing attribution model weighting multiple touchpoints in a customer journey.", "companies": ["postman"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "WAF", "definition": "Web Application Firewall -- a security control that filters and monitors HTTP traffic to protect web applications from attacks.", "companies": ["cloudflare"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "WAL-G", "definition": "Archiving and backup tool for PostgreSQL write-ahead logs.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Warehouse management", "definition": "System and processes for organizing, tracking, and controlling inventory in storage facilities.", "companies": ["misfitsmarket"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "WASM (WebAssembly)", "definition": "A portable binary instruction format enabling high-performance code execution in browsers and other sandboxed runtimes.", "companies": ["aptoslabs"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Waterfall", "definition": "A sequential project management methodology Squarespace's Senior Program Manager, Commercial Strategy role should be familiar with as part of the product development lifecycle.", "companies": ["aurorainnovation", "squarespace"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "WCAG", "definition": "Web Content Accessibility Guidelines, the internationally recognized standard for making web content accessible to people with disabilities.", "companies": ["airtable"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Weaviate", "definition": "Open-source vector database for similarity search.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Web application development", "definition": "Building software applications accessed through web browsers.", "companies": ["garnerhealth"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Web Application Firewall (WAF)", "definition": "A security control that filters and monitors HTTP traffic to protect web applications from common attacks.", "companies": ["gusto"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Web development", "definition": "Building software that runs in a web browser.", "companies": ["duolingo"], "disputed": false, "explanation": "", "analogy": ""}
@@ -2689,7 +2875,9 @@
 {"term": "Zero-day", "definition": "Previously unknown software vulnerability that attackers can exploit before vendors have released a patch.", "companies": ["bugcrowd"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Zero-to-one", "definition": "Building an initiative from nothing into an initial working product; experience with zero-to-one initiatives within large organizations is sought for Roku's Head of Content Innovation role.", "companies": ["roku"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "Zero-trust networking", "definition": "A network security model requiring continuous verification rather than implicit trust; listed as a nice-to-have familiarity area (via Tailscale) for Roku's IT Support manager role.", "companies": ["roku"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "ZFS", "definition": "Combined file system and volume manager with snapshots and checksums.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Zig", "definition": "A general-purpose, low-level programming language designed as an alternative to C with a focus on simplicity and safety.", "companies": ["alpaca"], "disputed": false, "explanation": "", "analogy": ""}
+{"term": "Zitadel", "definition": "Open-source identity and access management platform.", "explanation": "", "analogy": "", "companies": [], "disputed": false}
 {"term": "Zoom", "definition": "A video conferencing tool used here for customer-facing technical engagements.", "companies": ["gitlab", "onemedical"], "disputed": true, "explanation": "", "analogy": ""}
 {"term": "Zoom Rooms", "definition": "Conference room video-conferencing hardware/software Roku's IT Support manager role partners on with AV Technology for meeting-room support.", "companies": ["roku"], "disputed": false, "explanation": "", "analogy": ""}
 {"term": "ZoomInfo", "definition": "A B2B contact and company data platform used for sales prospecting and intent data.", "companies": ["asana", "datagrail", "formic", "garnerhealth", "synack"], "disputed": true, "explanation": "", "analogy": ""}
